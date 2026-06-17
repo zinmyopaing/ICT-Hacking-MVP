@@ -1,27 +1,28 @@
-Selected Semester Project Opportunity
+# Selected Semester Project Opportunity
 
-Selected Project Title
+## Selected Project Title
+Campus Lost and Found System
 
-Smart Assignment Reminder App
+## Target User
+University students
 
-Target User
+## Problem Statement
+Students lose personal items and do not know where to search or report them.
 
-Who has the problem?
+## Current Alternative
+Asking friends, posting in chat groups, and contacting security staff.
 
-University students who manage multiple courses, assignments, quizzes, and examination schedules.
+## Proposed IT Solution
+A web-based lost and found platform.
 
-Problem Statement
+## Why This Opportunity Was Selected
+It received the highest NUF score and is easy to validate.
 
-What problem does the user experience?
+## Why This Is Feasible Without IoT or Advanced Cybersecurity
+The project only requires a web interface and database.
 
-University students often forget assignment deadlines, quiz dates, and project submission times because information is spread across different platforms such as learning management systems, class messaging groups, and handwritten notes. Missing deadlines can negatively affect academic performance and increase stress.
+## Possible MVP Type
+Web App Prototype
 
-Current Alternative
-
-How do users currently solve or manage this problem?
-
-Students currently use notebook planners, phone calendars, alarm applications, sticky notes, spreadsheets, and messaging group reminders to track deadlines. However, these methods are often disconnected, require manual updates, and do not effectively prioritize urgent tasks.
-
-Proposed IT Solution
-
-Develop a mobile application that allows students to record assignments, organize tasks by course, receive automatic notifications before deadlines, and view all academic activities in a single dashboard.
+## Initial Validation Plan for Lab 03
+Interview students and collect feedback.
