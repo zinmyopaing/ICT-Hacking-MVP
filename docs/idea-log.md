@@ -1,4 +1,4 @@
-#Initial IT Venture Idea Log
+# Initial IT Venture Idea Log
 
 ## Idea 1
 
