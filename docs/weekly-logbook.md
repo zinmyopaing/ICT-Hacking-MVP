@@ -23,3 +23,27 @@ https://github.com/zinmyopaing/ICT-Hacking-MVP.git
 ## Plan for Next Week
 
 Research project ideas.
+
+## Lab 02: IT Opportunity Scanning
+
+### What We Completed
+1. Generated six opportunities.
+2. Completed NUF scoring.
+3. Selected final project.
+
+### Selected Opportunity
+Campus Lost and Found System
+
+### Why We Selected It
+Highest NUF score.
+
+### What We Rejected
+Inventory System because lower score.
+
+### What We Learned
+1. Opportunity scanning.
+2. NUF scoring.
+3. Technology feasibility.
+
+### Plan for Lab 03
+Interview students and validate the problem.
