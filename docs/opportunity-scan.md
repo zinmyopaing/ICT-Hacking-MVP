@@ -26,4 +26,3 @@
 | Idea 5 | Reminder App | Figma | Schedule Data | Low | Yes |
 | Idea 6 | Web App | HTML/CSS | Notes Data | Medium | Yes |
 
-https://docs.google.com/spreadsheets/d/1BgJ1_CjlR0t27g3vKFsKAOxHRytY5ImHzlnSxohqMcc/edit?usp=sharing
