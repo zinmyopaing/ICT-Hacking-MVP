@@ -1,8 +1,8 @@
 # ICT-Hacking-MVP
 
-##Create name 
+Create name 
 
-###Change name
+Change name
 
 ## Selected IT Venture Direction
 
