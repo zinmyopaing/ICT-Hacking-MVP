@@ -18,7 +18,7 @@ Mobile app.
 Why This is Suitable:
 Easy to develop as a prototype.
 
-#Idea 2
+##Idea 2
 
 Problem Area: Students lose personal items on campus.
 
@@ -32,7 +32,7 @@ Possible Technology: Web application.
 
 Why This is Suitable: Easy to prototype.
 
-#Idea 3
+##Idea 3
 
 Problem Area: Small cafes cannot track inventory.
 
