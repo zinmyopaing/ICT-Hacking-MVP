@@ -32,10 +32,10 @@ Research project ideas.
 3. Selected final project.
 
 ### Selected Opportunity
-Campus Lost and Found System
+Smart Study Group Finder
 
 ### Why We Selected It
-Highest NUF score.
+Received a high NUF score because it is useful, feasible, and solves a real problem faced by university students.
 
 ### What We Rejected
 Inventory System because lower score.
@@ -46,4 +46,4 @@ Inventory System because lower score.
 3. Technology feasibility.
 
 ### Plan for Lab 03
-Interview students and validate the problem.
+Interview university students to validate whether they face difficulties finding study groups and study partners.
