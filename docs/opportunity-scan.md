@@ -2,7 +2,8 @@
 
 ## Ideas Reviewed from Lab 1
 
-<img width="1070" height="86" alt="image" src="https://github.com/user-attachments/assets/86aef88c-86c9-42b6-82e4-6240bed5f889" />
+<img width="920" height="88" alt="image" src="https://github.com/user-attachments/assets/d9fac728-f599-47af-ac5f-e316b437564d" />
+
 
 ## Opportunity Discovery Table
 
@@ -20,7 +21,7 @@
 | Idea | Prototype Type | Tools Needed | Data Needed | Difficulty | Feasible? |
 |------|---------------|-------------|------------|-----------|----------|
 | Idea 1 | Mobile App Mockup | Figma | Assignment Data | Low | Yes |
-| Idea 2 | Web Prototype | HTML/CSS | Lost Item Data | Low | Yes |
+| Idea 2 | Web Prototype | HTML/CSS + Firebase | Student Group Data | Medium | Yes |
 | Idea 3 | Dashboard | Google Sheets | Inventory Data | Low | Yes |
 | Idea 4 | Website Mockup | Figma | Student Data | Medium | Yes |
 | Idea 5 | Reminder App | Figma | Schedule Data | Low | Yes |
