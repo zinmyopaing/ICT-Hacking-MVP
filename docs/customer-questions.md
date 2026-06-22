@@ -1,18 +1,34 @@
-# Customer Discovery Questions
+Customer Discovery Questions
 
-## Project Title
+Project Title
+
 Smart Study Group Finder
 
-## Target Respondent
-University Students
+Target Respondent
 
-1. Have you ever had difficulty finding a study group?
-2. How do you currently find study partners?
-3. What methods do you use now?
-4. What problems do you face with those methods?
-5. How often does this happen?
-6. How serious is this problem?
-7. What happens if you cannot find a study group?
-8. Have you ever missed learning opportunities because of this?
-9. What would make finding study groups easier?
-10. Is there anything else we should know?
+University Students (especially students who study in groups or have difficulty finding study partners)
+
+Consent and Context
+
+1. May we ask you a few questions for our ICT105 course project?
+2. Your participation is voluntary. We will not collect unnecessary personal data. Is it okay if we take notes?
+
+Recent Experience
+
+3. Tell us about the last time you had difficulty finding a study group or study partner.
+4. What were you trying to do at that time?
+5. What happened from start to finish?
+
+Current Workaround
+
+6. How do you usually solve or manage this problem now?
+7. What tools, apps, people, or methods do you currently use?
+8. What is difficult, slow, confusing, risky, or frustrating about the current method?
+
+Pain Severity and Consequence
+
+9. How often does this problem happen?
+10. How serious is this problem on a scale of 1–5? Why?
+11. What happens if this problem is not solved?
+
+Closing
