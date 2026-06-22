@@ -13,3 +13,4 @@ In Lab 02, we reviewed multiple IT opportunities, evaluated them using NUF scori
 ## Next Step
 
 In Lab 03, we will prepare customer discovery questions and interview university students to validate the study group matching problem.
+Lab 03
