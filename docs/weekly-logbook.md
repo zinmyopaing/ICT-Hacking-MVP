@@ -45,10 +45,10 @@ Inventory System because lower score.
 2. NUF scoring.
 3. Technology feasibility.
 
-# Plan for Lab 03
+### Plan for Lab 03
 Interview university students to validate whether they face difficulties finding study groups and study partners.
 
-##Lab 03: Customer Problem Discovery
+# Lab 03: Customer Problem Discovery
 
 ### What We Completed
 
