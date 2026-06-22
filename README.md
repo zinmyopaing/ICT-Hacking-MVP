@@ -13,4 +13,15 @@ In Lab 02, we reviewed multiple IT opportunities, evaluated them using NUF scori
 ## Next Step
 
 In Lab 03, we will prepare customer discovery questions and interview university students to validate the study group matching problem.
-Lab 03
+
+## Customer Problem Discovery Summary
+
+In Lab 03, our team interviewed university students to validate the study group finding problem.
+
+## Main Evidence Found
+
+Most respondents reported difficulty finding study partners and currently rely on Facebook groups and class chats.
+
+## Decision for Next Step
+
+Continue developing Smart Study Group Finder.
