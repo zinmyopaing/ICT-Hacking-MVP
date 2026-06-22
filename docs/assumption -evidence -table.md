@@ -4,3 +4,9 @@ Assumption-Evidence table
 | 1 | Students cannot find study groups easily | 8/10 respondents reported difficulty finding study partners | Strong | Keep |
 | 2 | Students experience delays when using social media groups | 6/10 respondents said responses in Facebook or Messenger groups | Moderate | Keep |
 | 3 | Students find it difficult to locate peers studying the same subject | 7/10 respondents mentioned difficulty finding same-subject students | Strong | Keep |
+
+## Evidence Strength Guide
+
+- Weak: Based on team opinion, assumptions, or feedback from only 1–2 respondents.
+- Moderate: Repeated patterns observed from several respondents (around 4–6 respondents).
+- Strong: Clear and repeated evidence from most respondents (7 or more respondents) showing the same problem, behavior, or need.
