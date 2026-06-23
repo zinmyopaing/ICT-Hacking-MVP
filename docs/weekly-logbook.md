@@ -79,11 +79,11 @@ Based on the interview evidence, we refined our problem statement and confirmed 
 
 ### Evidence of Work
 
-- GitHub repository link: 
-- Customer questions file:
+- GitHub repository link:  https://github.com/zinmyopaing/ICT-Hacking-MVP.git
+- Customer questions file: docs/customer-questions.md
 - Raw responses file: data/raw-responses.xlsx
 - Assumption-evidence table: docs/assumption-evidence-table.md
-- Commit link:
+- Commit link: 
 
 ### Plan for Lab 04
 
