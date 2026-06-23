@@ -83,7 +83,7 @@ Based on the interview evidence, we refined our problem statement and confirmed 
 - Customer questions file: docs/customer-questions.md
 - Raw responses file: data/raw-responses.xlsx
 - Assumption-evidence table: docs/assumption-evidence-table.md
-- Commit link: 
+- Commit link: https://github.com/zinmyopaing/ICT-Hacking-MVP/commit/5afdcb3dee677a1343ab7d7f87d52d19ae8ce9e9
 
 ### Plan for Lab 04
 
