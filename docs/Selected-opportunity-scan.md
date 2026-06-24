@@ -26,3 +26,5 @@ Web App Prototype
 
 ## Initial Validation Plan for Lab 03
 Interview university students and collect feedback about difficulties in finding study groups and study partners.
+
+
