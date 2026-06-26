@@ -33,6 +33,8 @@ Based on customer discovery interviews, university students often struggle to fi
 ## Decision for Next Step
 
 Continue developing Smart Study Group Finder and focus on subject-based group discovery, group creation, and easier student collaboration features for the MVP.
+
+
 ## Lab 04: User Persona, Requirements, and User Stories
 
 ### Primary Target User
