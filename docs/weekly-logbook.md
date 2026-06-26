@@ -88,3 +88,61 @@ Based on the interview evidence, we refined our problem statement and confirmed 
 ### Plan for Lab 04
 
 Define customer segments, create user personas, and write user stories for the Smart Study Group Finder MVP.
+
+# Lab 04 - Weekly Logbook
+
+## Group Information
+
+- **Course:** ICT105 Fundamental Technology Entrepreneurship
+- **Lab:** Lab 04 – User Persona, Requirements, and User Stories
+- **Group Name:** ICT-Hacking-MVP
+- **Repository Link:** https://github.com/zinmyopaing/ICT-Hacking-MVP.git
+- **Date:** 25 June 2026
+
+---
+
+## 1. Work Completed Today
+
+| Member Name | Contribution | GitHub Evidence (Commit / Issue / PR Link) |
+|--------------|--------------|--------------------------------------------|
+| Sai Naw Khay Li | Created User Persona and System Requirements | Commit Link |
+| Thiri Htet Htet Soe | Wrote User Stories and MVP Feature List | Commit Link |
+| Ei Zin Phyo | Updated README | Commit Link |
+| Zin Myo Paing | Updated Weekly Logbook | Commit Link |
+
+---
+
+## 2. Main Decisions
+
+- **Primary target user:** University students who need study partners for the same subject.
+- **Main persona:** Aung Aung(Second-year university student).
+- **Most important problem:** Students cannot easily find active study groups or study partners.
+- **Must-have requirements:** Search study groups, create study groups, join groups, view group details, filter by subject.
+- **Features included in MVP:** Search, create, join, group details, subject filter, admin management.
+- **Features postponed:** Real-time chat, AI recommendation, video meeting, timetable synchronization.
+
+---
+
+## 3. Requirement Changes / Clarifications
+
+Based on customer interview evidence from Lab 03, the team decided to focus the MVP on subject-based study group matching. Advanced features such as AI recommendations and real-time chat will be postponed to future versions because they are not essential for validating the core problem.
+
+---
+
+## 4. Problems Encountered
+
+- **Technical problem:** Organizing all Lab 04 documents and keeping requirements consistent across files.
+- **Team coordination problem:** Coordinating document updates and GitHub commits.
+- **Evidence/requirement problem:** Determining which features should be included in the MVP based on customer interview evidence.
+
+---
+
+## 5. Next Actions Before Lab 05
+
+| Task | Owner | Deadline | GitHub Issue |
+|------|-------|----------|--------------|
+| Create User Flow Diagram | Zin Myo Paing| Before Lab 05 | Issue #1 |
+| Create Use Case Diagram | Ei Zin Phyo | Before Lab 05 | Issue #2 |
+| Design UI Wireframes | Zin Myo Paing | Before Lab 05 | Issue #3 |
+| Start HTML/CSS Prototype | Zin Myo Paing | Before Lab 05 | Issue #4 |
+| Review Requirements and User Stories | Ei Zin Phyo | Before Lab 05 | Issue #5 |
