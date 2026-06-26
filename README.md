@@ -33,3 +33,65 @@ Based on customer discovery interviews, university students often struggle to fi
 ## Decision for Next Step
 
 Continue developing Smart Study Group Finder and focus on subject-based group discovery, group creation, and easier student collaboration features for the MVP.
+## Lab 04: User Persona, Requirements, and User Stories
+
+### Primary Target User
+
+The primary target user is a university student who wants to quickly find or create study groups with classmates taking the same subject. The platform helps students collaborate more effectively and reduces the difficulty of finding suitable study partners.
+
+---
+
+### Persona Summary
+
+- **Persona name:** Aung Aung
+- **User type:** Second-year University Student
+- **Main goal:** Find or create a study group for the same subject.
+- **Main pain point:** It is difficult and time-consuming to find active study partners.
+- **Current workaround:** Uses Facebook Groups, Messenger, LINE, and class chat groups.
+
+---
+
+### Key Requirements
+
+| Req ID | Requirement | Priority | Related Evidence |
+|--------|-------------|----------|------------------|
+| FR-01 | Homepage with study group overview | Must | Students need a simple starting page |
+| FR-02 | Search study groups by subject | Must | 8/10 respondents struggled to find study groups |
+| FR-03 | Create a new study group | Must | Students wanted to organize their own groups |
+| FR-04 | Store study group information | Must | Group information must be saved |
+| FR-05 | View study group list | Must | Students need to browse available groups |
+| FR-06 | Filter groups by subject | Must | Students requested faster searching |
+| FR-07 | View group details | Must | Students need more information before joining |
+| FR-08 | Join study group | Must | Students want to participate easily |
+| FR-09 | Admin manage study groups | Should | Remove inactive or incorrect groups |
+| NFR-01 | Easy-to-use interface | Must | Students preferred a simple interface |
+| NFR-02 | Mobile responsive design | Must | Most students use smartphones |
+| NFR-03 | Fast page loading | Should | Improve user experience |
+
+---
+
+### MVP Feature Scope
+
+| Feature | Priority | Included in Final Prototype? |
+|---------|----------|------------------------------|
+| Search Study Groups | Must | Yes |
+| Create Study Group | Must | Yes |
+| Join Study Group | Must | Yes |
+| View Group Details | Must | Yes |
+| Filter by Subject | Should | Yes |
+| Admin Management | Should | Yes |
+| Real-time Chat | Could | No |
+| AI Recommendation | Won't | No |
+
+---
+
+### Diagram Links
+
+- **User Flow Diagram:** diagrams/user-flow-diagram.png
+- **Use Case Diagram:** diagrams/use-case-diagram.png
+
+---
+
+### GitHub Contribution Evidence
+
+All team members contributed to the repository through commits, GitHub Issues, and project documentation. Evidence can be verified from the repository commit history, Issues, and project files.
