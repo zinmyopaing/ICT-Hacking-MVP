@@ -5,7 +5,7 @@
 
 ## 1. Persona Name
 
-Aung Aung, Second-Year Computer Science Student
+Aung Aung, Second-Year ICT Student
 
 ---
 
