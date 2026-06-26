@@ -105,13 +105,10 @@ Define customer segments, create user personas, and write user stories for the S
 
 | Member Name | Contribution | GitHub Evidence (Commit / Issue / PR Link) |
 |--------------|--------------|--------------------------------------------|
-| Sai Naw Khay Li | Created User Persona and System Requirements | https://github.com/zinmyopaing/ICT-Hacking-MVP/blob/main/docs/user-persona.md
-https://github.com/zinmyopaing/ICT-Hacking-MVP/blob/main/docs/system-requirements.md
- |
-| Thiri Htet Htet Soe | Wrote User Stories and MVP Feature List | https://github.com/zinmyopaing/ICT-Hacking-MVP/blob/main/docs/user-stories.md
-https://github.com/zinmyopaing/ICT-Hacking-MVP/blob/main/docs/mvp-feature-list.md |
-| Ei Zin Phyo | Updated README | https://github.com/zinmyopaing/ICT-Hacking-MVP/blob/main/README.md |
-| Zin Myo Paing | Updated Weekly Logbook | https://github.com/zinmyopaing/ICT-Hacking-MVP/blob/main/docs/weekly-logbook.md |
+| Sai Naw Khay Li | Created User Persona and System Requirements | Commit |
+| Thiri Htet Htet Soe | Wrote User Stories and MVP Feature List | Commit |
+| Ei Zin Phyo | Updated README | Commit |
+| Zin Myo Paing | Updated Weekly Logbook | Commit |
 
 ---
 
