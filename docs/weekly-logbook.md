@@ -142,7 +142,7 @@ Based on customer interview evidence from Lab 03, the team decided to focus the 
 | Task | Owner | Deadline | GitHub Issue |
 |------|-------|----------|--------------|
 | Create User Flow Diagram | Zin Myo Paing| Before Lab 05 | Issue #1 |
-| Create Use Case Diagram | Ei Zin Phyo | Before Lab 05 | Issue #2 |
-| Design UI Wireframes | Zin Myo Paing | Before Lab 05 | Issue #3 |
-| Start HTML/CSS Prototype | Zin Myo Paing | Before Lab 05 | Issue #4 |
+| Create Use Case Diagram | Zin Myo Paing | Before Lab 05 | Issue #2 |
+| Design UI Wireframes | Thiri Htet Htet Soe | Before Lab 05 | Issue #3 |
+| Start HTML/CSS Prototype | Sai Naw Khay Li | Before Lab 05 | Issue #4 |
 | Review Requirements and User Stories | Ei Zin Phyo | Before Lab 05 | Issue #5 |
