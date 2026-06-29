@@ -90,7 +90,7 @@ The primary target user is a university student who wants to quickly find or cre
 ### Diagram Links
 
 - **User Flow Diagram:**
-- **Use Case Diagram:**
+- **Use Case Diagram:** https://drive.google.com/file/d/1NO8SpFjQfxuXT9tp3WbRYnNJkgEyua65/view?usp=sharing
 
 ---
 
