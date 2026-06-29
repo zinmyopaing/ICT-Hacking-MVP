@@ -89,8 +89,8 @@ The primary target user is a university student who wants to quickly find or cre
 
 ### Diagram Links
 
-- **User Flow Diagram:** diagrams/user-flow-diagram.png
-- **Use Case Diagram:** diagrams/use-case-diagram.png
+- **User Flow Diagram:**
+- **Use Case Diagram:**
 
 ---
 
