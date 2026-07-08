@@ -1,0 +1,5 @@
+| segment_id | segment_name                                 | need                                                 | value_expected                                                | possible_channel                     |
+| ---------- | -------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------ |
+| CS01       | University student looking for a study group | Find suitable study groups quickly                   | Save time and improve learning through collaboration          | University website / Web application |
+| CS02       | Tutor                                        | Create and manage tutoring sessions and study groups | Reach more students and provide organized academic support    | Web application / Tutor dashboard    |
+| CS03       | Academic support staff                       | Monitor study groups and support academic activities | Better management of learning programs and student engagement | Admin panel / University portal      |
