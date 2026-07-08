@@ -148,9 +148,9 @@ Based on customer interview evidence from Lab 03, the team decided to focus the 
 | Review Requirements and User Stories | Ei Zin Phyo | Before Lab 05 | Issue #5 |
 # Weekly Logbook - Lab 05
 
-## Group Name
+## Group2 Hacking team
 
-## Project Title
+## Smart Study Group Finder
 
 ## Lab 05 Focus
 Product Concept and UI/UX Wireframe
@@ -165,22 +165,23 @@ Product Concept and UI/UX Wireframe
 - [ ] Updated GitHub repository
 
 ## Member Contributions
-| Member Name | Contribution | Evidence / Commit Link |GitHub history account name-zinmyopaing
-|Zinmyopaing| admin-view.png|GitHub history account name-zinmyopaing
-|Zinmyopaing|dashboard.png|GitHub history account name-zinmyopaing
-|Zinmyopaing|detail-view.png|GitHub history account name-zinmyopaing
-|Zinmyopaing|record-list.png|GitHub history account name-zinmyopaing
-|Zinmyopaing|input.form.png|GitHub history account name-zinmyopaing
-|Sai Naw Khay Li|case-study-brief.md|GitHub history account name-Sainaw2
-|Sai Naw Khay Li|screen-inventory-checklist.md|GitHub history account name-Sainaw2
-|Sai Naw Khay Li|data-sturcture.md|GitHub history account name-Sainaw2
-|Thiri Htet Htet Soe|feature-requirement-mapping.md|GitHub history account name-biancaaaa77
-|Thiri Htet Htet Soe|admin-view.png|GitHub history account name-biancaaaa77
-|Thiri Htet Htet Soe|dashboard.png|GitHub history account name-biancaaaa77
-|Thiri Htet Htet Soe|weekly-logbook.md|GitHub history account name-biancaaaa77
-|Ei Zin Phyo|product-concept.md|GitHub history account name-eizinp66-star
-|Ei Zin Phyo|wireframe-specification.md|GitHub history account name-eizinp66-star
-|Ei Zin Phyo|wireframe-usability-review-checklist.md|GitHub history account name-eizinp66-star
+| Member Name | Contribution | Evidence / Commit Link |
+|.............|...............|..........................|
+|Zinmyopaing| admin-view.png|GitHub history account name-zinmyopaing|
+|Zinmyopaing|dashboard.png|GitHub history account name-zinmyopaing|
+|Zinmyopaing|detail-view.png|GitHub history account name-zinmyopaing|
+|Zinmyopaing|record-list.png|GitHub history account name-zinmyopaing|
+|Zinmyopaing|input.form.png|GitHub history account name-zinmyopaing|
+|Sai Naw Khay Li|case-study-brief.md|GitHub history account name-Sainaw2|
+|Sai Naw Khay Li|screen-inventory-checklist.md|GitHub history account name-Sainaw2|
+|Sai Naw Khay Li|data-sturcture.md|GitHub history account name-Sainaw2|
+|Thiri Htet Htet Soe|feature-requirement-mapping.md|GitHub history account name-biancaaaa77|
+|Thiri Htet Htet Soe|admin-view.png|GitHub history account name-biancaaaa77|
+|Thiri Htet Htet Soe|dashboard.png|GitHub history account name-biancaaaa77|
+|Thiri Htet Htet Soe|weekly-logbook.md|GitHub history account name-biancaaaa77|
+|Ei Zin Phyo|product-concept.md|GitHub history account name-eizinp66-star|
+|Ei Zin Phyo|wireframe-specification.md|GitHub history account name-eizinp66-star|
+|Ei Zin Phyo|wireframe-usability-review-checklist.md|GitHub history account name-eizinp66-star|
 
 
 
