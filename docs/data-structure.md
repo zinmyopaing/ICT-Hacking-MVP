@@ -6,3 +6,8 @@ Main Data Entities/Tables
 Field Definition
 
 <img width="980" height="362" alt="Screenshot 2026-07-08 at 8 00 07 PM" src="https://github.com/user-attachments/assets/b30f0575-c038-4559-8bbc-f656efe87eed" />
+
+
+Status Values
+
+<img width="980" height="362" alt="Screenshot 2026-07-08 at 8 00 07 PM" src="https://github.com/user-attachments/assets/c25caf67-8c86-4bbc-a070-b8725415c672" />
