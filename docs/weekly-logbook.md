@@ -146,3 +146,37 @@ Based on customer interview evidence from Lab 03, the team decided to focus the 
 | Design UI Wireframes | Thiri Htet Htet Soe | Before Lab 05 | Issue #3 |
 | Start HTML/CSS Prototype | Sai Naw Khay Li | Before Lab 05 | Issue #4 |
 | Review Requirements and User Stories | Ei Zin Phyo | Before Lab 05 | Issue #5 |
+# Weekly Logbook - Lab 05
+
+## Group Name
+
+## Project Title
+
+## Lab 05 Focus
+Product Concept and UI/UX Wireframe
+
+## What We Completed Today
+- [ ] Reviewed Lab 04 requirements
+- [ ] Defined product concept
+- [ ] Mapped features to requirements
+- [ ] Created required wireframe screens
+- [ ] Created user flow diagram
+- [ ] Built clickable prototype draft or screen navigation plan
+- [ ] Updated GitHub repository
+
+## Member Contributions
+| Member Name | Contribution | Evidence / Commit Link |
+|Zinmyopaing| admin-view.png|git
+|Zinmyopaing|dashboard.png|
+|Zinmyopaing|detail-view.png|
+|Zinmyopaing|record-list.png|
+|Zinmyopaing|input.form.png|
+
+## Decisions Made
+| Decision | Reason | Related Requirement |
+|---|---|---|
+| | | |
+
+## Problems Found
+
+## Next Steps Before Lab 06
