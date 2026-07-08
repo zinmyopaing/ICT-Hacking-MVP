@@ -1,13 +1,12 @@
-Use this checklist before submitting Lab 05.
-
-Check Item Yes/No Evidence or Screenshot
-The homepage clearly explains the purpose of the Smart Study Group Finder and provides Login/Register actions. Yes Homepage Wireframe (homepage.png)
-The main user journey (Login → Search → Join/Create Study Group → Dashboard) can be completed without confusion. Yes Complete Wireframe Flow
-The Create Study Group form includes all required fields and validation messages. Yes create-group.png
-The Study Group Search screen provides search, subject filters, and schedule filters. Yes search-group.png
-The Study Group Detail screen displays complete group information and Join/Leave actions. Yes group-detail.png
-The Tutor Finder screen allows users to browse tutors and contact them. Yes tutor-list.png
-The Dashboard displays joined groups, upcoming sessions, notifications, and user activities. Yes dashboard.png
-Navigation is consistent across all wireframes. Yes Navigation Bar on Every Screen
-Realistic sample data is used instead of empty placeholders. Yes Sample Group Names, Subjects, and Tutor Profiles
-Every wireframe is linked to at least one requirement in system-requirements.md. Yes Requirement Traceability Table
+| Check Item                                                                                                   | Yes/No  | Evidence or Screenshot                               |
+| ------------------------------------------------------------------------------------------------------------ | ------- | ---------------------------------------------------- |
+| The homepage clearly states the purpose of the Smart Study Group Finder and provides Login/Register actions. | **Yes** | `wireframes/homepage.png`                            |
+| The main user pathway can be followed from start to finish (Login → Search → Join/Create Group → Dashboard). | **Yes** | Complete wireframe flow                              |
+| The input form includes required fields and validation feedback.                                             | **Yes** | `wireframes/input-form.png`                          |
+| The record list includes search, filter, and category controls.                                              | **Yes** | `wireframes/record-list.png`                         |
+| The detail view shows complete study group information and current status.                                   | **Yes** | `wireframes/detail-view.png`                         |
+| The admin view includes at least one management action (Approve, Edit, Delete).                              | **Yes** | `wireframes/admin-view.png`                          |
+| The dashboard shows meaningful summary information (joined groups, upcoming sessions, notifications).        | **Yes** | `wireframes/dashboard.png`                           |
+| Navigation is consistent across all screens.                                                                 | **Yes** | Navigation bar on every wireframe                    |
+| The design uses realistic sample data.                                                                       | **Yes** | Sample study groups, tutors, subjects, and schedules |
+| Each screen maps to `system-requirements.md`.                                                                | **Yes** | Requirement Traceability Matrix                      |
