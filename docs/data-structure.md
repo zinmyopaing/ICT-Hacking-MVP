@@ -9,5 +9,4 @@ Field Definition
 
 
 Status Values
-
-<img width="980" height="362" alt="Screenshot 2026-07-08 at 8 00 07 PM" src="https://github.com/user-attachments/assets/c25caf67-8c86-4bbc-a070-b8725415c672" />
+<img width="607" height="123" alt="Screenshot 2026-07-08 at 8 03 30 PM" src="https://github.com/user-attachments/assets/23819e1c-4db8-4352-a8a0-6044ae2850aa" />
