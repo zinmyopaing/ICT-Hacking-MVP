@@ -97,3 +97,47 @@ The primary target user is a university student who wants to quickly find or cre
 ### GitHub Contribution Evidence
 
 All team members contributed to the repository through commits, GitHub Issues, and project documentation. Evidence can be verified from the repository commit history, Issues, and project files.
+
+
+# README Update - Lab 05
+
+## Lab 05: Product Concept and UI/UX Wireframe
+
+### Product Concept
+
+**Project Title:** Smart Study Group Finder
+
+**Description:**
+
+Smart Study Group Finder is a web application that helps university students find, create, and join study groups based on their subjects or interests. It allows students to connect with classmates, collaborate effectively, and improve their learning experience.
+
+---
+
+### Requirement-Driven Screens
+
+| Screen | Related Requirement IDs | Wireframe File |
+|--------|--------------------------|----------------|
+| Homepage / Landing | FR-01, FR-02 | /wireframes/homepage.png |
+| Login | FR-03 | /wireframes/login.png |
+| Register | FR-03 | /wireframes/register.png |
+| Find Groups | FR-04 | /wireframes/find-groups.png |
+| Group Details | FR-05 | /wireframes/group-details.png |
+| Create Group | FR-07 | /wireframes/create-group.png |
+| My Groups | FR-08 | /wireframes/my-groups.png |
+| Profile | FR-09 | /wireframes/profile.png |
+
+---
+
+### User Flow
+
+The user starts from the Homepage, then logs in or registers. After successful login, the user can search study groups, create a new group, join existing groups, manage joined groups, and update their profile.
+
+User Flow Diagram:
+
+/diagrams/user-flow.png
+
+---
+
+### Team Contribution
+
+All team members contributed to the same GitHub repository by creating issues, making commits, updating documentation, designing wireframes, and developing the prototype.
