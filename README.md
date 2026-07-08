@@ -162,18 +162,10 @@ List your required screens and related requirement IDs.
 | Admin / Manager View | FR-09, FR-08 |https://drive.google.com/file/d/1xOtKVdJ9K46eLrGdqZGASrFGXJCDiZnI/view?usp=sharing  |
 
 ### User Flow
-Add a short explanation and link to `/diagrams/user-flow.png` or `/diagrams/user-flow.mmd`.
+For the user flow ,generally there will be four main user types for our project.Student,tutor,admin and academic Support Staff.They have different responsibilities and functions .We used one way and two ways arrows in the diagram for clear understanding.<img width="747" height="607" alt="data flow" src="https://github.com/user-attachments/assets/7b5e51d9-a9eb-43b8-bed9-17678a649c37" />
+
 
 ### Team Contribution
 All members contributed to the same GitHub repository.
 
 
-## Team Contribution
-
-All team members contributed to the project using the same GitHub repository. Contributions include product planning, requirements analysis, user stories, wireframe design, prototype development, documentation, GitHub Issues, commits, and weekly logbooks.
-
----
-
-### Team Contribution
-
-All team members contributed to the same GitHub repository by creating issues, making commits, updating documentation, designing wireframes, and developing the prototype.
