@@ -140,6 +140,33 @@ User Flow Diagram:
 /diagrams/user-flow.png
 
 ---
+# README Update Template - Lab 05
+
+Add this section to your group README.md.
+
+## Lab 05: Product Concept and UI/UX Wireframe
+
+### Product Concept
+Briefly explain what your product is, who it is for, and what problem it solves.
+
+### Requirement-Driven Screens
+List your required screens and related requirement IDs.
+
+| Screen | Related Requirement IDs | Wireframe File |
+|---|---|---|
+| Homepage / Landing | FR-01, FR-02 | https://drive.google.com/file/d/1mcV1f05Qf203248i3YhDrPSXbCGwbscd/view?usp=sharing |
+| Input / Submission Form | FR-03, FR-10, FR-11 |  https://drive.google.com/file/d/1uMZiy0uz1_Xno3DXOoyBE2danjE10Lqn/view?usp=sharing|
+| Records / Information List | FR-05, FR-06 |https://drive.google.com/file/d/134mCcw_oxDhQhJ69qcywdQChYoEX71jO/view?usp=sharing |
+| Record Detail View | FR-07, FR-08 | https://drive.google.com/file/d/12M2MrlcLlzGUhxmENmLlwEYMc4VgynxV/view?usp=sharing|
+| Dashboard / Summary | FR-12 | https://drive.google.com/file/d/1dxYzErIWFan8q0X18kM0vQHq_CilycAh/view?usp=sharing |
+| Admin / Manager View | FR-09, FR-08 |https://drive.google.com/file/d/1xOtKVdJ9K46eLrGdqZGASrFGXJCDiZnI/view?usp=sharing  |
+
+### User Flow
+Add a short explanation and link to `/diagrams/user-flow.png` or `/diagrams/user-flow.mmd`.
+
+### Team Contribution
+All members contributed to the same GitHub repository.
+
 
 ## Team Contribution
 
