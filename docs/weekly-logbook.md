@@ -166,7 +166,7 @@ Product Concept and UI/UX Wireframe
 
 ## Member Contributions
 | Member Name | Contribution | Evidence / Commit Link |
-|.............|...............|..........................|
+|--------------|----------------|-----------------------------------|
 |Zinmyopaing| admin-view.png|GitHub history account name-zinmyopaing|
 |Zinmyopaing|dashboard.png|GitHub history account name-zinmyopaing|
 |Zinmyopaing|detail-view.png|GitHub history account name-zinmyopaing|
