@@ -165,18 +165,31 @@ Product Concept and UI/UX Wireframe
 - [ ] Updated GitHub repository
 
 ## Member Contributions
-| Member Name | Contribution | Evidence / Commit Link |
-|Zinmyopaing| admin-view.png|git
-|Zinmyopaing|dashboard.png|
-|Zinmyopaing|detail-view.png|
-|Zinmyopaing|record-list.png|
-|Zinmyopaing|input.form.png|
+| Member Name | Contribution | Evidence / Commit Link |GitHub history account name-zinmyopaing
+|Zinmyopaing| admin-view.png|GitHub history account name-zinmyopaing
+|Zinmyopaing|dashboard.png|GitHub history account name-zinmyopaing
+|Zinmyopaing|detail-view.png|GitHub history account name-zinmyopaing
+|Zinmyopaing|record-list.png|GitHub history account name-zinmyopaing
+|Zinmyopaing|input.form.png|GitHub history account name-zinmyopaing
+|Sai Naw Khay Li|case-study-brief.md|GitHub history account name-Sainaw2
+|Sai Naw Khay Li|screen-inventory-checklist.md|GitHub history account name-Sainaw2
+|Sai Naw Khay Li|data-sturcture.md|GitHub history account name-Sainaw2
+|Thiri Htet Htet Soe|feature-requirement-mapping.md|GitHub history account name-biancaaaa77
+|Thiri Htet Htet Soe|admin-view.png|GitHub history account name-biancaaaa77
+|Thiri Htet Htet Soe|dashboard.png|GitHub history account name-biancaaaa77
+|Thiri Htet Htet Soe|weekly-logbook.md|GitHub history account name-biancaaaa77
+|Ei Zin Phyo|product-concept.md|GitHub history account name-eizinp66-star
+|Ei Zin Phyo|wireframe-specification.md|GitHub history account name-eizinp66-star
+|Ei Zin Phyo|wireframe-usability-review-checklist.md|GitHub history account name-eizinp66-star
+
+
 
 ## Decisions Made
 | Decision | Reason | Related Requirement |
-|---|---|---|
-| | | |
+|To study how to draw wireframe more efficiently|All team members have difficulty in wireframe knowledge|Praccice canva,figma and learn m ore about wireframe drawing websites and applications|
+
 
 ## Problems Found
+Difficulity in drawing and structuring wireframes.
 
 ## Next Steps Before Lab 06
