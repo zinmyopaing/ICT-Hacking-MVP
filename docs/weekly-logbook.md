@@ -194,3 +194,64 @@ Product Concept and UI/UX Wireframe
 Difficulity in drawing and structuring wireframes.
 
 ## Next Steps Before Lab 06
+
+# Weekly Logbook - Lab 06
+
+## Group Name
+Smart Hacking MVP
+
+## Project Title
+Smart Study Group Finder
+
+## Date
+08 July 2026
+
+## Members Present
+
+| Member Name | Contribution Today | GitHub Evidence / Commit / File Updated |
+|-------------|--------------------|------------------------------------------|
+| Zin Myo Paing | Updated project idea and sample records | docs/update-idea-log.md |
+| Sai Naw Khay li| Created user stories | docs/user-stories.md |
+| Thiri Htet Htet Soe | Designed homepage prototype | index.html, style.css |
+| Ei Zin Phyo| Prepared weekly logbook | docs/weekly-logbook.md |
+
+---
+
+## Decisions Made Today
+
+### 1. Business model decision:
+Develop a web-based platform that helps university students create and join study groups based on their subjects.
+
+### 2. Technical architecture decision:
+Use HTML, CSS, and JavaScript for the front end. Store sample data in CSV files for the prototype.
+
+### 3. Data structure decision:
+Use study group records containing Group ID, Subject, Group Name, Meeting Location, Meeting Type, Creator, Date Created, Status, Admin Action, and Priority.
+
+### 4. Diagram decision:
+Create a Use Case Diagram, Flowchart, and Website Navigation Diagram for the Smart Study Group Finder system.
+
+---
+
+## Problems or Risks Found
+
+- Difficulty collecting real student feedback.
+- Need more sample study group data.
+- UI design needs improvement for better user experience.
+
+---
+
+## Next Actions Before Lab 07
+
+- Finish all HTML pages.
+- Improve CSS design.
+- Complete the Use Case Diagram.
+- Complete the Flowchart.
+- Update GitHub repository.
+- Test website navigation.
+
+---
+
+## Lecturer / TA Notes
+
+No comments yet.
