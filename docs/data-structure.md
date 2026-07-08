@@ -19,4 +19,6 @@ simple dataset location
 
 
 5. Data Privacy Note
+
+6. 
 The Smart Study Group Finder prototype will not collect sensitive personal information such as passwords, national ID numbers, financial information, or medical records. Sample data used in the prototype will be anonymized by using fictional names, email addresses, and IDs. The prototype is intended for educational purposes only and will not store or process real personal data.
