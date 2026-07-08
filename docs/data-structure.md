@@ -10,3 +10,7 @@ Field Definition
 
 Status Values
 <img width="607" height="123" alt="Screenshot 2026-07-08 at 8 03 30 PM" src="https://github.com/user-attachments/assets/23819e1c-4db8-4352-a8a0-6044ae2850aa" />
+
+Sample Records
+simple dataset location
+<img width="678" height="87" alt="Screenshot 2026-07-08 at 8 08 45 PM" src="https://github.com/user-attachments/assets/e384a6cb-ae06-4aec-9209-38d5f89348e5" />
