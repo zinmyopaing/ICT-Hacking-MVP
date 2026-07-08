@@ -178,7 +178,7 @@ Product Concept and UI/UX Wireframe
 |Thiri Htet Htet Soe|feature-requirement-mapping.md|GitHub history account name-biancaaaa77|
 |Thiri Htet Htet Soe|admin-view.png|GitHub history account name-biancaaaa77|
 |Thiri Htet Htet Soe|dashboard.png|GitHub history account name-biancaaaa77|
-|Thiri Htet Htet Soe|weekly-logbook.md|GitHub history account name-biancaaaa77|
+|Thiri Htet Htet Soe|weekly-logbook.md and README.md update|GitHub history account name-biancaaaa77|
 |Ei Zin Phyo|product-concept.md|GitHub history account name-eizinp66-star|
 |Ei Zin Phyo|wireframe-specification.md|GitHub history account name-eizinp66-star|
 |Ei Zin Phyo|wireframe-usability-review-checklist.md|GitHub history account name-eizinp66-star|
