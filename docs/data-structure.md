@@ -14,3 +14,9 @@ Status Values
 Sample Records
 simple dataset location
 <img width="678" height="87" alt="Screenshot 2026-07-08 at 8 08 45 PM" src="https://github.com/user-attachments/assets/e384a6cb-ae06-4aec-9209-38d5f89348e5" />
+
+
+
+
+5. Data Privacy Note
+The Smart Study Group Finder prototype will not collect sensitive personal information such as passwords, national ID numbers, financial information, or medical records. Sample data used in the prototype will be anonymized by using fictional names, email addresses, and IDs. The prototype is intended for educational purposes only and will not store or process real personal data.
