@@ -1,0 +1,10 @@
+| record_id | group_name                        | subject              | meeting_location     | group_type         | organized_by_role | meeting_date | status    | admin_action                       | priority |
+| --------- | --------------------------------- | -------------------- | -------------------- | ------------------ | ----------------- | ------------ | --------- | ---------------------------------- | -------- |
+| SG001     | Java Programming Study Group      | Programming          | Computer Lab 1       | Study Group        | Student           | 2026-07-01   | Open      | Approved by admin                  | High     |
+| SG002     | Calculus Revision Group           | Mathematics          | Library Room A       | Tutoring Session   | Tutor             | 2026-07-01   | Open      | Verified schedule                  | High     |
+| SG003     | SQL Practice Group                | Database             | IT Building Room 305 | Study Group        | Student           | 2026-07-02   | Full      | Maximum members reached            | Medium   |
+| SG004     | Networking Fundamentals           | Networking           | Engineering Room 201 | Study Group        | Tutor             | 2026-07-02   | Ongoing   | Session started                    | High     |
+| SG005     | Academic English Group            | English              | Language Center      | Study Group        | Student           | 2026-07-03   | Completed | Session completed successfully     | Low      |
+| SG006     | Statistics Exam Review            | Statistics           | Library Room B       | Review Session     | Academic Staff    | 2026-07-03   | Open      | Approved by academic office        | Medium   |
+| SG007     | Software Engineering Project Team | Software Engineering | Innovation Hub       | Project Discussion | Student           | 2026-07-04   | Cancelled | Cancelled due to organizer absence | Low      |
+| SG008     | Cyber Security Study Circle       | Cyber Security       | Computer Lab 3       | Study Group        | Tutor             | 2026-07-04   | Open      | Ready for student registration     | High     |
