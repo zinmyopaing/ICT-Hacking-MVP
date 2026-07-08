@@ -168,4 +168,41 @@ For the user flow ,generally there will be four main user types for our project.
 ### Team Contribution
 All members contributed to the same GitHub repository.
 
+# Lab 06 Update – Business Model Canvas and Technical Architecture
 
+## Lab 06 Summary
+
+In Lab 06, our group transformed the **Smart Study Group Finder** project into a complete business and technical design. We connected our product concept, user requirements, user stories, wireframes, and MVP features with the Business Model Canvas, technical architecture, system architecture, data flow, and data structure. These deliverables provide a clear foundation for developing the final prototype.
+
+---
+
+## Files Added or Updated
+
+- [Business Model Canvas](docs/business-model-canvas.md)
+- [Feature-Value Mapping](docs/feature-value-mapping.md)
+- [Technical Architecture](docs/technical-architecture.md)
+- [Data Structure](docs/data-structure.md)
+- [System Architecture Diagram](diagrams/system-architecture.png)
+- [Data Flow Diagram](diagrams/data-flow.png)
+- [Weekly Logbook](docs/weekly-logbook.md)
+
+---
+
+## Technical Direction
+
+The prototype will use a **Frontend + localStorage/JSON** architecture.
+
+**Technologies**
+- HTML5
+- CSS3
+- JavaScript
+- localStorage / JSON
+- Figma (Wireframe Design)
+
+This architecture is suitable because it is simple, easy to develop, and supports all MVP features without requiring a backend server. It also allows the team to demonstrate the complete user workflow effectively.
+
+---
+
+## Final Prototype Connection
+
+The outputs from Lab 06 will directly guide the development of the final **Smart Study Group Finder** prototype. The Business Model Canvas defines the project's value and target users, the Feature-Value Mapping ensures each feature provides user and operational value, the Technical Architecture specifies how the system will be built, and the System Architecture and Data Flow Diagrams illustrate how users, system components, and data interact. The Data Structure provides realistic sample data for implementation. Together, these deliverables ensure that the final prototype is consistent, user-centered, and aligned with the project requirements and MVP features.
