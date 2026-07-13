@@ -255,3 +255,61 @@ Create a Use Case Diagram, Flowchart, and Website Navigation Diagram for the Sma
 ## Lecturer / TA Notes
 
 No comments yet.
+
+
+# Weekly Logbook - Lab 07
+
+## Group Information
+
+- Group Name: ICT-Haking-MVP
+- Project Title: Smart Study Group Finder
+- Date: 14 July 2026
+- Repository Link: [https://github.com/zinmyopaing/ICT-Hacking-MVP](https://github.com/zinmyopaing/ICT-Hacking-MVP.git)
+
+---
+
+## What We Completed Today
+
+- [x] Reviewed project requirements, user stories, MVP features, system architecture, and wireframes.
+- [x] Identified critical assumptions that may affect the success of the prototype.
+- [x] Selected the MVP experiment type (Simple Web Prototype and Clickable Prototype).
+- [x] Defined experiment objectives, test users, and success metrics.
+- [x] Prepared the MVP experiment script and user feedback form.
+- [x] Updated the project documentation and README for Lab 07.
+- [x] Reviewed the Smart Study Group Finder prototype before usability testing.
+
+---
+
+## Member Contributions
+
+| Member Name | Contribution | Evidence / Commit / Issue Link |
+|-------------|--------------|--------------------------------|
+| Sai Naw Khay Li | Prepared MVP Experiment Plan and Critical Assumptions | GitHub Commit |
+| Ei Zin Phyo | Wrote Experiment Script and Feedback Form | GitHub Commit |
+| Thiri Htet Htet Soe | Updated Success Metrics and README | GitHub Commit |
+| Zin Myo Paing | Reviewed prototype and prepared Lab 07 documents | GitHub Commit |
+
+> **Note:**  
+> If your group has more than one member, replace the rows above with each member's actual name and contribution.
+
+---
+
+## Key Decisions
+
+| Decision | Reason | Evidence / Requirement Link |
+|----------|--------|-----------------------------|
+| Selected a Simple Web Prototype | The HTML/CSS/JavaScript prototype is sufficient for usability testing before backend development. | Lab 07 Requirement |
+| Focused the experiment on university students | They are the primary target users of the system. | Customer Discovery Results |
+| Tested the core MVP features only | To validate the most important user workflows before adding advanced features. | MVP Feature List |
+
+---
+
+## Problems and Next Action
+
+| Problem | Next Action | Responsible Member |
+|---------|-------------|--------------------|
+| Prototype has not yet been tested by real users. | Conduct usability testing with at least five university students. | Project Team |
+| User feedback has not yet been collected. | Use the feedback form during the MVP experiment. | Project Team |
+| Some interface improvements may still be needed. | Analyze experiment results and improve the user interface before the final prototype. | Project Team |
+
+
