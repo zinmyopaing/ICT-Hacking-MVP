@@ -46,3 +46,15 @@ _____________________________________________________________________
 3. Which page was the easiest to use? Why?
 
 _____________________________________________________________________
+
+4. Which page needs improvement? Please explain.
+
+_____________________________________________________________________
+
+5. Is there any feature you would like us to add in the future?
+
+_____________________________________________________________________
+
+6. Would you use the Smart Study Group Finder if it were available at your university? Why or why not?
+
+_____________________________________________________________________
