@@ -1,5 +1,3 @@
-# Experiment Script
-
 ## 1. Opening Script
 
 Thank you for helping us test our Smart Study Group Finder prototype.
@@ -44,3 +42,16 @@ During the experiment, observe and record:
 - Time required to complete each task.
 
 ---
+
+## 5. Closing Questions
+
+Ask each tester the following questions after completing the experiment:
+
+1. Was the website easy to understand?
+2. Was it easy to find a suitable study group?
+3. Which feature was the most useful?
+4. Which page was the most difficult to use?
+5. Was the Create Group form easy to complete?
+6. Was the Join Group process clear and understandable?
+7. What improvements would you suggest before the final version is developed?
+8. Would you use this website if it were available at your university? Why or why not?
