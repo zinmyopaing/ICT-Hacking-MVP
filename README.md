@@ -206,3 +206,68 @@ This architecture is suitable because it is simple, easy to develop, and support
 ## Final Prototype Connection
 
 The outputs from Lab 06 will directly guide the development of the final **Smart Study Group Finder** prototype. The Business Model Canvas defines the project's value and target users, the Feature-Value Mapping ensures each feature provides user and operational value, the Technical Architecture specifies how the system will be built, and the System Architecture and Data Flow Diagrams illustrate how users, system components, and data interact. The Data Structure provides realistic sample data for implementation. Together, these deliverables ensure that the final prototype is consistent, user-centered, and aligned with the project requirements and MVP features.
+
+
+
+
+# README Update for Lab 07
+
+## Lab 07: MVP Experiment Design
+
+### Experiment Objective
+
+The objective of this experiment is to evaluate whether university students can easily use the Smart Study Group Finder prototype to search for study groups, create new groups, and submit join requests without assistance. The experiment also aims to identify usability issues and gather feedback before developing the final version of the system.
+
+---
+
+### Critical Assumptions
+
+The three most important assumptions tested in this experiment are:
+
+1. University students need an easier way to find study partners for their courses.
+2. Students find the Smart Study Group Finder more convenient than using social media or class chat groups.
+3. Students can successfully navigate the website and complete tasks such as searching, creating, and joining study groups without confusion.
+
+---
+
+### MVP Experiment Type
+
+**Selected Experiment Type**
+
+- Simple Web Prototype
+- Clickable Prototype
+- Form-based Simulation
+
+**Reason for Selection**
+
+The Smart Study Group Finder has been developed as an interactive HTML, CSS, and JavaScript prototype. Users can navigate through the website, search for study groups, create new groups, submit join requests, and view notifications. This allows realistic usability testing before implementing a backend database.
+
+---
+
+### Success Metrics
+
+The MVP experiment will be considered successful if:
+
+- At least **90%** of testers can successfully search for a study group.
+- At least **80%** of testers can complete the Join Group process without assistance.
+- At least **80%** of testers can successfully create a new study group.
+- The average completion time for all tasks is **less than 5 minutes**.
+- The average user satisfaction score is **4 out of 5 or higher**.
+
+---
+
+### Files Added in Lab 07
+
+- `/docs/mvp-experiment-plan.md`
+- `/docs/critical-assumptions.md`
+- `/docs/experiment-script.md`
+- `/docs/success-metrics.md`
+- `/docs/feedback-form.md`
+- `/docs/weekly-logbook.md`
+
+---
+
+### Connection to Final Prototype
+
+The MVP experiment helps our team validate the main assumptions of the Smart Study Group Finder before full implementation. Feedback collected from university students will identify usability problems, improve the user interface, refine important features, and ensure that the final prototype better meets the needs of students looking for study groups.
+
