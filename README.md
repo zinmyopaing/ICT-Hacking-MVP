@@ -271,3 +271,73 @@ The MVP experiment will be considered successful if:
 
 The MVP experiment helps our team validate the main assumptions of the Smart Study Group Finder before full implementation. Feedback collected from university students will identify usability problems, improve the user interface, refine important features, and ensure that the final prototype better meets the needs of students looking for study groups.
 
+
+
+# README Update - Lab 08
+
+## Lab 08: Customer Validation and Analytics Sheet
+
+### Validation Objective
+
+The team tested the Smart Study Group Finder MVP to evaluate whether university students could successfully register, log in, search for study groups, create new groups, join study groups, and receive notifications without assistance. The validation also measured usability, user satisfaction, and areas for improvement before the final implementation.
+
+---
+
+### Prototype Version Tested
+
+- **Version:** Smart Study Group Finder MVP v1.0
+- **Link:** https://github.com/zinmyopaing/ICT-Hacking-MVP.git
+- **Screenshots:** /screenshots/validation-test-screens.png
+
+---
+
+### Analytics Summary
+
+| Metric | Result |
+|---------|--------|
+| Total test users | 12 |
+| Task success rate | 91.7% |
+| Average feedback score | 4.5 / 5 |
+| Average interest level | 4.7 / 5 |
+| Main confusion point | Course code search and Join Group workflow |
+
+---
+
+### MVP Decision
+
+**Decision:** Continue with minor revisions.
+
+The validation results showed that most students successfully completed the required tasks and found the system useful. However, improvements are needed for the search functionality, Create Group form, Join Group process, and Notifications before moving to the final implementation.
+
+---
+
+### Files Added
+
+- /data/validation-results.xlsx
+- /data/validation-results.csv
+- /docs/customer-validation-summary.md
+- /docs/analytics-insights.md
+- /docs/mvp-decision.md
+- /docs/test-user-notes.md
+- /docs/weekly-logbook.md
+- /diagrams/validation-results-flow.md
+- /screenshots/validation-test-screens.png
+
+---
+
+### Key Improvements Identified
+
+- Improve course code search.
+- Enhance search filter options.
+- Simplify the Create Group form.
+- Improve Join Group confirmation messages.
+- Redesign the Notifications page for better readability.
+- Maintain a consistent user interface across all pages.
+
+---
+
+### Validation Outcome
+
+The Smart Study Group Finder MVP was **successfully validated with minor revisions**.
+
+The validation confirmed that the project solves the intended problem of helping students find and join study groups. User feedback supports continuing development while refining several usability issues before the final prototype.
