@@ -313,3 +313,67 @@ No comments yet.
 | Some interface improvements may still be needed. | Analyze experiment results and improve the user interface before the final prototype. | Project Team |
 
 
+# Weekly Logbook - Lab 08
+
+## Group Information
+
+- **Group name:** ICT-Hacking-MVP
+- **Project title:** Smart Study Group Finder
+- **Repository link:** https://github.com/zinmyopaing/ICT-Hacking-MVP.git
+- **Lab date:** 15 July 2026
+
+---
+
+## Work Completed Today
+
+- [x] Reviewed Lab 07 MVP experiment plan
+- [x] Prepared customer validation dataset structure
+- [x] Created validation-results.xlsx and validation-results.csv
+- [x] Created Analytics Dashboard
+- [x] Wrote Customer Validation Summary
+- [x] Wrote Analytics Insights
+- [x] Wrote MVP Decision
+- [x] Wrote Test User Notes
+- [x] Updated README
+- [x] Created GitHub issues for prototype improvements
+
+---
+
+## Member Contributions
+
+| Member Name | Contribution | GitHub Evidence |
+|--------------|--------------|-----------------|
+| Zin Myo Paing | Prepared validation dataset (Excel & CSV) | validation-results.xlsx |
+| Ei Zin Phyo | Analyzed validation results | analytics-insights.md |
+| Ei Zin Phyo | Created customer validation summary | customer-validation-summary.md |
+| Thiri Htet Htet Soe | Wrote MVP decision document | mvp-decision.md |
+| Thiri Htet Htet Soe | Recorded test user observations | test-user-notes.md |
+| Sai Naw Khay Li | Updated README and Lab 08 documents | README.md |
+
+---
+
+## Problems Found
+
+- Some students had difficulty using the search filter.
+- Course code search was not clear enough.
+- The Create Group form contained a few unnecessary fields.
+- Some users were unsure whether they had successfully joined a study group.
+- Notification messages could be more noticeable.
+
+---
+
+## Next Actions
+
+Before the next lab, the team will:
+
+- Improve the Find Groups search filter.
+- Improve course code search.
+- Simplify the Create Group form.
+- Improve the Join Group workflow.
+- Redesign the Notifications page.
+- Add clearer confirmation and success messages.
+- Update the prototype based on user feedback.
+- Continue developing the final Smart Study Group Finder prototype.
+
+
+
