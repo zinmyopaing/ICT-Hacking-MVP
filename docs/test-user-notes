@@ -1,0 +1,41 @@
+
+
+
+# Lab 08 - Test User Notes
+
+This file records qualitative observations collected during the Smart Study Group Finder MVP validation test.
+
+| Test User ID | Role | What the user did | Confusion Point | Direct Comment | Requirement Affected |
+|---------------|------|-------------------|-----------------|----------------|----------------------|
+| TU-01 | Student | Registered a new account successfully. | None | "Registration was simple and easy." | FR-02 |
+| TU-02 | Student | Logged into the system successfully. | None | "Login process was very quick." | FR-03 |
+| TU-03 | Student | Searched for a study group by subject. | Search filter | "The search filter could be more flexible." | FR-04 |
+| TU-04 | Student | Viewed study group details. | None | "Group information was clear and helpful." | FR-05 |
+| TU-05 | Student | Created a new study group. | Study Mode selection | "The Create Group form has a few unnecessary fields." | FR-06 |
+| TU-06 | Student | Joined a study group. | Join Group button | "I wasn't sure if I had joined successfully." | FR-07 |
+| TU-07 | Student | Viewed notifications. | None | "Notifications are useful and easy to understand." | FR-08 |
+| TU-08 | Student | Searched using subject and keywords. | None | "Finding study groups was very easy." | FR-04 |
+| TU-09 | Student | Searched using course code. | Course code search | "Course code search should be clearer." | FR-04 |
+| TU-10 | Student | Created another study group. | Meeting time field | "Meeting time should have better examples." | FR-06 |
+| TU-11 | Student | Joined another study group. | None | "Joining a study group was fast." | FR-07 |
+| TU-12 | Student | Checked notifications after joining a group. | None | "Notification messages were clear." | FR-08 |
+
+---
+
+## Summary of Observations
+
+### Positive observations
+- Most students completed the assigned tasks without assistance.
+- The Find Groups feature was the most useful function.
+- Students liked the simple interface and navigation.
+- Registration and Login pages were easy to understand.
+
+### Common confusion points
+- Search by course code.
+- Search filter options.
+- Join Group confirmation.
+- Create Group form (optional fields).
+
+### Overall conclusion
+
+The Smart Study Group Finder MVP was successfully validated. Most users completed the required tasks and provided positive feedback. Minor improvements are recommended for the search functionality, Create Group form, Join Group workflow, and Notifications before the final implementation.
