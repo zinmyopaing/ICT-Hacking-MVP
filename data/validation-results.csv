@@ -1,0 +1,13 @@
+Test_User_ID,User_Role,Prototype_Version,Main_Task,Task_Completed,Time_Seconds,Confusion_Point,Feature_Most_Useful,Feedback_Score_1_5,Interest_Level_1_5,Comment,Requirement_Affected
+TU-01,Student,V1.0,Register account,Yes,42,None,Registration,5,5,Easy registration,FR-02
+TU-02,Student,V1.0,Login,Yes,18,None,Login,5,5,Quick login,FR-03
+TU-03,Student,V1.0,Find study groups,Yes,35,Search filter,Find Groups,4,5,Useful search,FR-04
+TU-04,Student,V1.0,View group details,Yes,26,None,Group Details,5,4,Clear details,FR-05
+TU-05,Student,V1.0,Create study group,Yes,63,Study mode,Create Group,4,5,Form slightly long,FR-06
+TU-06,Student,V1.0,Join study group,Yes,30,Join button,Join Group,4,5,Easy join,FR-07
+TU-07,Student,V1.0,View notifications,Yes,16,None,Notifications,5,4,Clear notice,FR-08
+TU-08,Student,V1.0,Search by subject,Yes,28,None,Search,5,5,Good filter,FR-04
+TU-09,Student,V1.0,Search by course code,No,55,Course code,Search,3,4,Need clearer labels,FR-04
+TU-10,Student,V1.0,Create another group,Yes,60,Meeting time,Create Group,4,4,Good UI,FR-06
+TU-11,Student,V1.0,Join another group,Yes,29,None,Join Group,5,5,Fast,FR-07
+TU-12,Student,V1.0,Check notifications,Yes,14,None,Notifications,5,5,Very easy,FR-08
