@@ -1,0 +1,14 @@
+Data Field,Example Value,Purpose,Personal Data,Sensitive Data,Visibility,Keep / Remove / Replace,Responsible Action
+Anonymous Test User ID,TU-01,Identify each test participant without revealing identity,No,No,Project Team,Keep,Use anonymous IDs only
+User Role,Student,Identify participant role,No,No,Project Team,Keep,Collect only necessary roles
+Prototype Version,V1.0,Record prototype version,No,No,Project Team,Keep,Track testing version
+Main Task,Find Study Groups,Record the task being tested,No,No,Project Team,Keep,Support usability analysis
+Task Completed,Yes,Measure task success,No,No,Project Team,Keep,Calculate task success rate
+Time (Seconds),35,Measure task efficiency,No,No,Project Team,Keep,Analyze task performance
+Confusion Point,Search Filter,Identify usability problems,No,No,Project Team,Keep,Improve user experience
+Most Useful Feature,Study Group Search,Understand user preferences,No,No,Project Team,Keep,Improve MVP features
+Feedback Score,5,Measure user satisfaction,No,No,Project Team,Keep,Used in Power BI Dashboard
+Interest Level,5,Measure user interest,No,No,Project Team,Keep,Support customer validation
+Comment,Easy to use,Collect usability feedback,Possibly,No,Project Team,Keep,Remove personal information if entered
+Requirement Affected,FR-04,Link feedback to requirements,No,No,Project Team,Keep,Support requirement validation
+Device Type,Laptop,Record testing device,No,No,Project Team,Keep,Analyze testing environment
