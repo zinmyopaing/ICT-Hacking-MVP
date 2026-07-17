@@ -424,7 +424,7 @@ Updated functional requirements based on customer validation feedback and docume
 
 | Member | Contribution | GitHub Evidence |
 |---------|--------------|-----------------|
-| Zin Myo Paing | Created Power BI dashboard, completed documentation, updated GitHub repository | Issues #33, #34, #35 |
+| Zin Myo Paing | Created Power BI dashboard, completed documentation, updated GitHub repository | Issues #33, #34, #43 |
 | Ei Zin Phyo | Reviewed analytics insights and validation summary | Issue #32 |
 | Thiri Htet Htet Soe | Updated MVP decision document and reviewed requirement changes | Issues #25, #27 |
 | Sai Naw Khay Li | Collected and cleaned customer validation dataset | Issues #24, #26 |
