@@ -376,4 +376,91 @@ Before the next lab, the team will:
 - Continue developing the final Smart Study Group Finder prototype.
 
 
+# Weekly Logbook - Lab 09
+
+## Group Name
+
+Smart Study Group Finder Team
+
+## Date
+
+17 July 2026
+
+## Members Present
+
+- Zin Myo Paing
+- Thiri Htet Htet Soe
+- Sai Naw Khay Li
+- Ei Zin Phyo
+
+---
+
+## Work Completed Today
+
+- **Data inventory:**
+Reviewed all collected customer validation data and organized the final dataset for Power BI analysis.
+
+- **Privacy review:**
+Completed the Privacy and Data Protection document and confirmed that only necessary personal data is collected.
+
+- **Ethical review:**
+Completed the Legal and Ethical Checklist to ensure the prototype follows ethical guidelines.
+
+- **IP review:**
+Reviewed third-party assets including Bootstrap, Google Fonts, Font Awesome, Power BI, GitHub, and AI-assisted documentation.
+
+- **Security review:**
+Completed the Basic Security Risk Check and identified mitigation strategies for user authentication and access control.
+
+- **Risk register:**
+Created the Risk Register covering privacy, ethics, security, intellectual property, legal, and data quality risks.
+
+- **Requirements update note:**
+Updated functional requirements based on customer validation feedback and documented all requirement changes.
+
+---
+
+## Member Contributions
+
+| Member | Contribution | GitHub Evidence |
+|---------|--------------|-----------------|
+| Zin Myo Paing | Created Power BI dashboard, completed documentation, updated GitHub repository | Issues #33, #34, #35 |
+| Ei Zin Phyo | Reviewed analytics insights and validation summary | Issue #32 |
+| Thiri Htet Htet Soe | Updated MVP decision document and reviewed requirement changes | Issues #25, #27 |
+| Sai Naw Khay Li | Collected and cleaned customer validation dataset | Issues #24, #26 |
+
+---
+
+## Decisions Made
+
+- Customer validation results confirmed that the Smart Study Group Finder solves the identified problem.
+- Improved search functionality based on user feedback.
+- Added clearer notification messages.
+- Strengthened privacy and security documentation before submission.
+- Approved the project for Lab 09 submission.
+
+---
+
+## Issues / Blockers
+
+- No critical blockers remain.
+- Minor UI improvements may be implemented in future versions.
+- Additional security features can be added if the project is deployed beyond the prototype stage.
+
+---
+
+## Next Action Before Lab 10
+
+- Review all Lab 09 documentation.
+- Verify GitHub Issues and commits.
+- Finalize README updates.
+- Prepare the project repository for Lab 10.
+- Continue improving the prototype based on instructor feedback.
+
+
+
+
+
+
+
 
