@@ -1,0 +1,7 @@
+﻿Asset_Name,Type,Source_URL,License_or_Permission,Used_In,Credit_Required,Risk_Level,Action
+Bootstrap CSS,CSS Framework,https://getbootstrap.com,MIT License,Responsive layout,Yes,Low,Record dependency in README
+Font Awesome Icons,Icon Library,https://fontawesome.com,Free License (verify terms),Navigation and UI icons,Yes,Low,Record source in README
+Team-created Wireframes,Design,Created by Project Team,Team-owned,Prototype pages,No,Low,Keep project files in repository
+Study Group Illustrations,Image,Self-created or royalty-free,CC0 or project-owned,Homepage,Depends,Low,Use only royalty-free or self-created assets
+Project Logo,Logo,Created by Project Team,Team-owned,Navigation bar,No,Low,Keep original editable file
+Google Fonts (optional),Font,https://fonts.google.com,Open Font License,Website typography,No,Low,Record font source if used
