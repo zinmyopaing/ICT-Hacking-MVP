@@ -341,3 +341,87 @@ The validation results showed that most students successfully completed the requ
 The Smart Study Group Finder MVP was **successfully validated with minor revisions**.
 
 The validation confirmed that the project solves the intended problem of helping students find and join study groups. User feedback supports continuing development while refining several usability issues before the final prototype.
+
+
+
+## Lab 09 – Responsible IT Check
+
+### Responsible Design Summary
+
+During Lab 09, our team reviewed the Smart Study Group Finder prototype from legal, ethical, privacy, intellectual property, and security perspectives.
+
+The review confirmed that the prototype:
+- Collects only the minimum information required for study group management.
+- Does not collect unnecessary sensitive personal data.
+- Clearly informs users about the purpose of data collection.
+- Uses only properly licensed third-party resources.
+- Separates user actions from administrator functions.
+- Documents potential project risks and mitigation strategies before implementation.
+
+Overall, the prototype is considered safe to continue with minor improvements for future development.
+
+---
+
+### Files Added
+
+The following Responsible IT documents were added:
+
+- docs/legal-ethical-checklist.md
+- docs/privacy-and-data-protection.md
+- docs/ip-and-third-party-assets.md
+- docs/security-risk-check.md
+- docs/risk-register.md
+- docs/updated-requirements-note.md
+- docs/weekly-logbook.md
+
+---
+
+### Requirement Update
+
+Customer validation showed that users preferred a simpler interface, clearer notifications, and improved search functionality.
+
+The following requirements were updated:
+
+| Requirement | Update |
+|------------|--------|
+| FR-04 | Improved study group search and filtering |
+| FR-06 | Simplified Create Group interface |
+| FR-08 | Added clearer notification messages |
+
+All requirement updates are documented in:
+
+docs/updated-requirements-note.md
+
+---
+
+### Team Contributions
+
+| Member | Contribution | GitHub Evidence |
+|---------|--------------|----------------|
+| Zin Myo Paing | Power BI Dashboard, Responsible IT documents, Repository updates | Issues #33, #34, #43 |
+| Ei Zin Phyo | Analytics insights and validation summary | Issue #32 |
+| Thiri Htet Htet Soe | MVP decision review and documentation improvements | Issues #25, #27 |
+| Sai Naw Khay Li | Customer validation data collection and cleaning | Issues #24, #26 |
+
+---
+
+### GitHub Issues Completed
+
+- #24 Collect and Clean Customer Validation Data
+- #25 Write MVP Decision Document
+- #26 Complete Validation Results Dataset
+- #27 Improve Prototype Based on Validation Results
+- #28 Update README and Weekly Logbook
+- #31 Customer Validation Summary
+- #32 Analytics Insights
+- #33 Collect and Clean Customer Validation Data
+- #34 Complete Validation Results Dataset
+- #43 Final Validation Dashboard and Documentation
+ 
+---
+
+### Overall Result
+
+The Smart Study Group Finder prototype successfully completed the Responsible IT review.
+
+All privacy, ethical, intellectual property, security, and risk management documents have been completed and added to the project repository. The team is ready to continue with the final project submission.
