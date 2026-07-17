@@ -1,7 +1,7 @@
 Risk_ID,Category,Risk_Description,Affected_Feature_or_Requirement,Severity,Likelihood,Mitigation_Action,Owner,GitHub_Evidence,Status
-R-01,Privacy,User comments may contain personal information,Feedback Form,High,Medium,Remove personal information from comments and use anonymous Test User IDs,Project Team,Issue #43,Open
-R-02,Security,Unauthorized users may access prototype features,Login / Authentication,High,Medium,Use login authentication and restrict admin functions,Project Team,Issue #43,Open
-R-03,IP,Images or icons may be used without proper license,User Interface,Medium,Low,Use royalty-free assets and record sources,Project Team,Issue #43,Open
+R-01,Privacy,User comments may contain personal information,Feedback Form,High,Medium,Remove personal information from comments and use anonymous Test User IDs,Project Team,Issue #43,Closed
+R-02,Security,Unauthorized users may access prototype features,Login / Authentication,High,Medium,Use login authentication and restrict admin functions,Project Team,Issue #43,Closed
+R-03,IP,Images or icons may be used without proper license,User Interface,Medium,Low,Use royalty-free assets and record sources,Project Team,Issue #43,Closed
 R-04,Ethical,Users may misunderstand the prototype as a production system,Homepage,Medium,Low,Clearly label the system as an academic prototype,Project Team,Issue #43,Closed
-R-05,Data Quality,Incomplete feedback may reduce validation accuracy,Customer Validation,Medium,Medium,Review submitted feedback before analysis,Project Team,Issue #43,Open
-R-06,Privacy,Collected usability data could be shared without authorization,Testing Dataset,High,Low,Store files securely and limit access to project members and instructor,Project Team,Issue #43,Open
+R-05,Data Quality,Incomplete feedback may reduce validation accuracy,Customer Validation,Medium,Medium,Review submitted feedback before analysis,Project Team,Issue #43,Closed
+R-06,Privacy,Collected usability data could be shared without authorization,Testing Dataset,High,Low,Store files securely and limit access to project members and instructor,Project Team,Issue #43,Closed
