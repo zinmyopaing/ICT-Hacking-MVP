@@ -458,6 +458,70 @@ Updated functional requirements based on customer validation feedback and docume
 - Continue improving the prototype based on instructor feedback.
 
 
+# Weekly Logbook - Lab 10
+
+## Lab Topic
+
+MVP Implementation Sprint 1
+
+---
+
+## What We Built Today
+
+- Completed Homepage, Register, Login, Find Groups, and Create Group pages.
+- Implemented Register and Login functionality using JavaScript and Local Storage.
+- Improved responsive UI using HTML, CSS, and Bootstrap 5.
+
+---
+
+## Requirement IDs Addressed
+
+- FR-01 : User Registration
+- FR-02 : User Login
+- FR-03 : Create Study Group
+- FR-05 : Search Study Groups
+- FR-12 : Dashboard (Prototype Design)
+
+---
+
+## Contribution by Members
+
+| Member | Contribution | Evidence |
+|--------|--------------|----------|
+| Zin Myo Paing | Homepage, Register, Login | GitHub Commit |
+| Thiri Htet Htet Soe & Sai Naw Khay Li | Find Groups, Group Details | GitHub Commit |
+| Ei Zin Phyo | Documentation, Screenshots, Issues | GitHub Commit |
+
+---
+
+## Screenshots Added
+
+- /screenshots/homepage.png
+- /screenshots/register.png
+- /screenshots/login.png
+- /screenshots/find-group.png
+- /screenshots/create-group.png
+
+---
+
+## Problems Faced
+
+- Local Storage did not work correctly when opening HTML files directly.
+- Image paths and JavaScript file paths were incorrect after reorganizing folders.
+- Fixed the issues by using Live Server and correcting file paths.
+
+---
+
+## Plan for Next Lab
+
+- Complete Dashboard page.
+- Implement My Groups page.
+- Add Search and Filter functionality.
+- Implement Admin page.
+- Complete remaining Local Storage features.
+- Finish Sprint 2 implementation.
+
+
 
 
 
