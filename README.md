@@ -424,4 +424,58 @@ docs/updated-requirements-note.md
 
 The Smart Study Group Finder prototype successfully completed the Responsible IT review.
 
-All privacy, ethical, intellectual property, security, and risk management documents have been completed and added to the project repository. The team is ready to continue with the final project submission.
+All privacy, ethical, intellectual property, security, and risk management documents have been completed and added to the project repository. The team is ready to continue with the final project submission.\
+
+
+
+
+# Lab 10 - MVP Implementation Sprint 1
+
+## Sprint Goal
+
+The goal of Lab 10 is to implement the first working prototype of the **Smart Study Group Finder** based on the approved requirements, user stories, wireframes, and system architecture.
+
+---
+
+## Implementation Approach
+
+- **Platform/Tools:** HTML, CSS, JavaScript, Bootstrap 5, GitHub
+- **Backend Status:** No backend (Prototype with Local Storage)
+- **Data Storage/Simulation:** Browser Local Storage (JavaScript)
+- **Prototype Link/Folder:** HTML prototype stored in the project repository (`ict105/` folder)
+
+---
+
+## Features Implemented in Sprint 1
+
+| Feature | Requirement ID | Status | Evidence |
+|---------|----------------|--------|----------|
+| Homepage | FR-13 | ✅ Completed | homepage.html |
+| User Registration | FR-01 | ✅ Completed | register.html |
+| User Login | FR-02 | ✅ Completed | login.html |
+| Create Study Group | FR-03 | 🚧 UI Completed | create-group.html |
+| Search Study Groups | FR-05 | 🚧 UI Completed | find-group.html |
+| View Group Details | FR-06 | 🚧 UI Completed | group-details.html |
+| Dashboard | FR-12 | ⏳ Planned | Sprint 2 |
+| Admin Management | FR-09 | ⏳ Planned | Sprint 2 |
+
+---
+
+## Screenshots
+
+- Homepage: /screenshots/homepage.png
+- Register: /screenshots/register.png
+- Login: /screenshots/login.png
+- Find Groups: /screenshots/find-group.png
+- Create Group: /screenshots/create-group.png
+- Group Details: /screenshots/group-details.png
+
+---
+
+## Team Contribution
+
+- **Zin Myo Paing:** Homepage, Register, Login, Local Storage
+- **Thiri Htet Htet Soe & Sai Naw Khay Li:** Create Group, Find Groups, Group Details
+- **Ei Zin Phyo:** Documentation, GitHub Issues, Screenshots, Sprint Planning
+
+All members contributed through GitHub commits, documentation updates, and prototype implementation.
