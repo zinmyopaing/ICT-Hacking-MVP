@@ -479,3 +479,66 @@ The goal of Lab 10 is to implement the first working prototype of the **Smart St
 - **Ei Zin Phyo:** Documentation, GitHub Issues, Screenshots, Sprint Planning
 
 All members contributed through GitHub commits, documentation updates, and prototype implementation.
+
+
+
+Lab 11: MVP Implementation Sprint 2 and Startup Metrics
+
+### Prototype Progress
+
+During Lab 11, the prototype was improved by adding JavaScript functionality and Local Storage. User registration and login are now working with stored user data. Documentation, testing notes, and startup metrics were also updated. Screenshots were added as implementation evidence for the completed features.
+
+---
+
+### Implemented / Improved Features
+
+| Requirement ID | Feature | Status | Evidence |
+|----------------|---------|--------|----------|
+| FR-03 | User Registration | Completed | register.js, Register Screenshot |
+| FR-04 | Local Storage | Completed | Local Storage Data |
+| FR-10 | Form Validation | Completed | Registration/Login Validation |
+| FR-11 | Confirmation Messages | Completed | Success Alert Screenshot |
+
+---
+
+### Startup / Product Metrics
+
+- Total Registered Users
+- Total Study Groups
+- Login Success Rate
+- Search Success Rate
+- Group Creation Success
+- Joined Groups
+
+---
+
+### Prototype Screenshots
+
+- screenshots/homepage.png
+- screenshots/register.png
+- screenshots/login.png
+- screenshots/find-group.png
+- screenshots/create-group.png
+
+---
+
+### Member Contributions
+
+| Member | Contribution |
+|--------|--------------|
+| Zin Myo Paing | Developed Homepage and UI |
+| Sai Naw Khay Li | Implemented Register, Login and Local Storage |
+| Thiri Htet Htet Soe | Updated Documentation and Startup Metrics |
+| Ei Zin Phyo | Testing, Screenshots and Bug Fixes |
+
+---
+
+### Remaining Work
+
+- Complete Search functionality.
+- Connect Create Group with Local Storage.
+- Complete Group Details page.
+- Develop Dashboard page.
+- Add Admin features.
+- Improve responsive design.
+- Perform final testing and bug fixing.
