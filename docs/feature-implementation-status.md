@@ -75,4 +75,29 @@ This document tracks the implementation status of the Smart Study Group Finder p
 | Dashboard | 60% Complete |
 | Admin Functions | 20% Complete |
 | Documentation | 90% Complete |
-| Overall Sprint 1 | **Working Draft** |
+| Overall Sprint 1 | **Working Draft** 
+
+---
+
+# Feature Implementation Status
+
+> Update this file during Lab 11. Every prototype feature must connect to `system-requirements.md`.
+
+| Req ID | Required Functionality | Screen/Module | Lab 10 Status | Lab 11 Status | Owner | Evidence Screenshot/Commit | Notes / Next Action |
+|--------|-------------------------|---------------|---------------|---------------|-------|----------------------------|---------------------|
+| FR-01 | Homepage or landing screen | Homepage | Partially Completed | Completed | All Members | homepage.png | Homepage completed and navigation improved. |
+| FR-02 | Primary user pathway | User Flow | Partially Completed | Completed | Member 1 | login.png | Register and Login flow connected successfully. |
+| FR-03 | User input/submission | Register / Create Group | Partially Completed | Completed | Member 1 | register.png | User registration uses Local Storage successfully. |
+| FR-04 | Data storage/record management | Local Storage | Partially Completed | Completed | Member 1 | register.js commit | User data stored and retrieved using Local Storage. |
+| FR-05 | View records/list | Find Groups | Partially Completed | Partially Completed | Member 2 | find-group.png | Record list completed, dynamic data will be improved. |
+| FR-06 | Search/filter/category | Search | Pending | In Progress | Member 2 | search.png | Search function under development. |
+| FR-07 | Detail view | Group Details | Pending | In Progress | Member 2 | group-details.png | Detail page designed, data connection remaining. |
+| FR-08 | Status/progress tracking | Status Module | Pending | Pending | Member 3 | - | Status tracking will be implemented after CRUD features. |
+| FR-09 | Admin/manager function | Admin View | Pending | Pending | Member 3 | - | Admin page not implemented yet. |
+| FR-10 | Validation/error prevention | Forms | Pending | Completed | Member 1 | register.png | Required field validation added to Register/Login forms. |
+| FR-11 | Confirmation/feedback message | Forms | Pending | Completed | Member 1 | login.png | Success and error alert messages implemented. |
+| FR-12 | Dashboard/analytics view | Dashboard | Pending | Pending | Member 3 | - | Dashboard will be developed in the next sprint. |
+| FR-13 | UI consistency | All Screens | Partially Completed | Completed | All Members | screenshots | Consistent colors, fonts and layout across pages. |
+| FR-14 | Mobile/responsive consideration | All Screens | Pending | In Progress | Member 2 | responsive.png | Responsive layout being improved. |
+| FR-15 | Privacy/responsible data handling | Local Storage | Pending | Partially Completed | Member 1 | register.js | Basic Local Storage implemented; security improvements planned. |
+| FR-16 | Final prototype traceability | Documentation | Pending | In Progress | All Members | GitHub Commit | Documentation updated continuously during Lab 11. |
