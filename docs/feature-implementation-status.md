@@ -81,7 +81,7 @@ This document tracks the implementation status of the Smart Study Group Finder p
 
 # Feature Implementation Status
 
-> Update this file during Lab 11. Every prototype feature must connect to `system-requirements.md`.
+## Update this file during Lab 11. Every prototype feature must connect to `system-requirements.md`.
 
 | Req ID | Required Functionality | Screen/Module | Lab 10 Status | Lab 11 Status | Owner | Evidence Screenshot/Commit | Notes / Next Action |
 |--------|-------------------------|---------------|---------------|---------------|-------|----------------------------|---------------------|
