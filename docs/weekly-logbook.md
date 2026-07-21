@@ -521,6 +521,91 @@ MVP Implementation Sprint 1
 - Complete remaining Local Storage features.
 - Finish Sprint 2 implementation.
 
+Weekly Logbook - Lab 11
+
+## Lab Topic
+
+MVP Implementation Sprint 2 and Startup Metrics
+
+---
+
+## Group Case
+
+**Project Title:** Smart Study Group Finder
+
+**Selected Case:** University students can create, search, and join study groups based on their subjects and courses.
+
+---
+
+## Work Completed Today
+
+- Reviewed all functional requirements (FR-01 to FR-16).
+- Improved Register and Login using JavaScript and Local Storage.
+- Tested the prototype and documented testing results.
+- Updated Feature Implementation Status.
+- Created Startup/Product Metrics documentation.
+- Updated README and project documentation.
+
+---
+
+## Member Contributions
+
+| Member Name | Contribution | File / Feature Updated | GitHub Evidence |
+
+|-------------|--------------|------------------------|-----------------|
+
+| Zin Myo Paing| Homepage and UI improvements | homepage.html, homepage.css | Commit |
+
+| Sai Naw Khay Li | Register & Login with Local Storage | register.js, login.js | Commit |
+
+| Thiri Htet Htet Soe | Documentation and Metrics | feature-implementation-status.md, startup-metrics.md | Commit |
+
+| Ei Zin Phyo | Testing, Screenshots and Bug Fixes | prototype-testing-notes.md, screenshots | Commit |
+
+---
+
+## Requirements Addressed
+
+- FR-01 Homepage
+- FR-02 User Login
+- FR-03 User Registration
+- FR-04 Local Storage
+- FR-05 Find Study Groups
+- FR-10 Form Validation
+- FR-11 Confirmation Messages
+- FR-13 UI Consistency
+
+---
+
+## Metrics Added
+
+- Total Registered Users
+- Total Study Groups
+- Login Success Rate
+- Search Success Rate
+- Group Creation Success
+- Joined Groups
+
+---
+
+## Problems Found
+
+- Search function is not fully implemented.
+- Dashboard page is not available yet.
+- Group Details page still uses static data.
+- Create Group is not yet connected to Local Storage.
+- Responsive layout needs additional improvements.
+
+---
+
+## Next Action Before Lab 12
+
+- Complete Search functionality.
+- Connect Create Group with Local Storage.
+- Complete Group Details page.
+- Develop Dashboard page.
+- Improve responsive design.
+- Complete Admin features and final testing.
 
 
 
