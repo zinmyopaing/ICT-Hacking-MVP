@@ -1,0 +1,15 @@
+EventID,GroupID,EventDateTime,UserRole,ActionType,DeviceType,ProcessingTimeMinutes,RequirementID
+E001,G001,7/15/2026 9:15,Student,Register,Mobile,2,FR-03
+E002,G001,7/15/2026 9:30,Student,Login,Laptop,1,FR-02
+E003,G001,7/15/2026 10:00,Student,CreateGroup,Laptop,5,FR-03
+E004,G002,7/16/2026 11:20,Student,SearchGroup,Mobile,2,FR-06
+E005,G002,7/16/2026 11:30,Student,JoinGroup,Mobile,2,FR-05
+E006,G003,7/17/2026 9:45,Student,ViewGroup,Laptop,1,FR-07
+E007,G004,7/18/2026 8:30,Admin,UpdateGroup,Desktop,4,FR-08
+E008,G004,7/18/2026 8:45,Admin,ManageGroup,Desktop,6,FR-09
+E009,G005,7/19/2026 10:15,Student,SearchGroup,Mobile,2,FR-06
+E010,G006,7/20/2026 13:00,Student,JoinGroup,Laptop,3,FR-05
+E011,G007,7/21/2026 15:20,Student,ViewDashboard,Laptop,2,FR-12
+E012,G008,7/22/2026 9:40,Student,SearchGroup,Mobile,2,FR-06
+E013,G009,7/23/2026 10:50,Admin,UpdateGroup,Desktop,5,FR-08
+E014,G010,7/24/2026 14:30,Student,ViewProfile,Mobile,1,FR-07
