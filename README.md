@@ -482,7 +482,7 @@ All members contributed through GitHub commits, documentation updates, and proto
 
 
 
-Lab 11: MVP Implementation Sprint 2 and Startup Metrics
+# Lab 11: MVP Implementation Sprint 2 and Startup Metrics
 
 ### Prototype Progress
 
