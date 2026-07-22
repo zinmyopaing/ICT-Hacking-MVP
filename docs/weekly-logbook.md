@@ -521,7 +521,7 @@ MVP Implementation Sprint 1
 - Complete remaining Local Storage features.
 - Finish Sprint 2 implementation.
 
-Weekly Logbook - Lab 11
+# Weekly Logbook - Lab 11
 
 ## Lab Topic
 
