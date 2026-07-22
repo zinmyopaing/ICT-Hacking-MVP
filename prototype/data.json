@@ -1,0 +1,97 @@
+{
+  "project": {
+    "title": "Smart Study Group Finder",
+    "version": "1.0",
+    "dataSource": "Sample prototype data"
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Zin Paing",
+      "email": "zin@rsu.ac.th",
+      "role": "student"
+    },
+    {
+      "id": 2,
+      "name": "Andrew",
+      "email": "andrew@rsu.ac.th",
+      "role": "student"
+    },
+    {
+      "id": 3,
+      "name": "Admin User",
+      "email": "admin@rsu.ac.th",
+      "role": "admin"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1001,
+      "groupName": "Website Study Group",
+      "courseCode": "ICT105",
+      "subject": "Programming",
+      "studyMode": "Offline",
+      "skillLevel": "Beginner",
+      "preferredYear": "Year 1",
+      "meetingDate": "2026-07-06",
+      "meetingTime": "08:45",
+      "location": "University Library",
+      "maxMembers": 15,
+      "frequency": "Weekly",
+      "privacy": "Public",
+      "description": "A study group for students learning HTML, CSS and JavaScript.",
+      "rules": "Respect all members and arrive on time.",
+      "owner": "zin@rsu.ac.th",
+      "members": [
+        "zin@rsu.ac.th",
+        "andrew@rsu.ac.th"
+      ],
+      "status": "Open"
+    },
+    {
+      "id": 1002,
+      "groupName": "AI Learning Group",
+      "courseCode": "ICT1500",
+      "subject": "Artificial Intelligence",
+      "studyMode": "Hybrid",
+      "skillLevel": "Intermediate",
+      "preferredYear": "Year 2",
+      "meetingDate": "2026-07-10",
+      "meetingTime": "13:00",
+      "location": "Computer Lab 2",
+      "maxMembers": 30,
+      "frequency": "Weekly",
+      "privacy": "Public",
+      "description": "A study group for learning basic artificial intelligence concepts.",
+      "rules": "Members should participate actively in group discussions.",
+      "owner": "andrew@rsu.ac.th",
+      "members": [
+        "andrew@rsu.ac.th",
+        "zin@rsu.ac.th"
+      ],
+      "status": "Open"
+    },
+    {
+      "id": 1003,
+      "groupName": "English Communication Group",
+      "courseCode": "ENG101",
+      "subject": "English",
+      "studyMode": "Online",
+      "skillLevel": "Beginner",
+      "preferredYear": "All Years",
+      "meetingDate": "2026-07-12",
+      "meetingTime": "18:00",
+      "location": "Zoom",
+      "maxMembers": 10,
+      "frequency": "Twice a Week",
+      "privacy": "Public",
+      "description": "Practice English speaking and communication skills.",
+      "rules": "Use English during group meetings.",
+      "owner": "zin@rsu.ac.th",
+      "members": [
+        "zin@rsu.ac.th"
+      ],
+      "status": "Open"
+    }
+  ]
+}
