@@ -1,0 +1,11 @@
+GroupID,CreatedDate,LastUpdated,CourseCode,StudyMode,SkillLevel,MeetingLocation,GroupStatus,Members,RequirementID,OwnerRole
+G001,7/15/2026,7/16/2026,ICT105,Online,Beginner,Zoom,Open,3,FR-03,Student
+G002,7/16/2026,7/18/2026,ICT106,Offline,Intermediate,Library,Full,5,FR-05,Student
+G003,7/17/2026,7/18/2026,ICT201,Hybrid,Beginner,Room A,Open,2,FR-06,Student
+G004,7/18/2026,7/19/2026,ENG101,Online,Advanced,Google Meet,Closed,6,FR-08,Admin
+G005,7/19/2026,7/20/2026,MTH102,Offline,Beginner,Library,Open,4,FR-03,Student
+G006,7/20/2026,7/21/2026,ICT105,Hybrid,Intermediate,Room B,Open,3,FR-09,Staff
+G007,7/21/2026,7/22/2026,BUS101,Online,Beginner,Zoom,Full,5,FR-05,Student
+G008,7/22/2026,7/23/2026,ICT210,Offline,Advanced,Lab 3,Open,2,FR-06,Student
+G009,7/23/2026,7/24/2026,PHY101,Online,Beginner,Teams,Closed,6,FR-08,Admin
+G010,7/24/2026,7/24/2026,ICT105,Hybrid,Intermediate,Library,Open,4,FR-12,Student
