@@ -629,7 +629,8 @@ Smart Study Group Finder
 | Zin Myo Paing | Developed Landing Page design and CTA section | landing-page.html, landing-page-content.md, landing-page-link.md |
 | Sai Naw Khay Li | Prepared Go-to-Market Plan and Marketing Message | go-to-market-plan.md, marketing-message.md |
 | Ei Zin Phyo | Created Acquisition Metrics, CSV metrics data, and updated documentation | acquisition-metrics.md, acquisition-metrics-template.csv, README.md |
-| Thiri Htet Htet Soe | Captured landing page screenshots, updated weekly logbook, and reviewed project documents | screenshots/, weekly-logbook.md,|
+| Thiri Htet Htet Soe | Captured landing page screenshots, updated weekly logbook, and reviewed project documents | screenshots/, weekly-logbook.md |
+
 
 ---
 
