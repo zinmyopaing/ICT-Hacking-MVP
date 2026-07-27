@@ -625,7 +625,7 @@ Smart Study Group Finder
 ## Work Completed Today
 
 | Member Name | Contribution | File / Commit Evidence |
-|-------------|--------------|------------------------|
+|-------------|-------------------|------------------------------|
 | Zin Myo Paing | Developed Landing Page design and CTA section | landing-page.html, landing-page-content.md, landing-page-link.md |
 | Sai Naw Khay Li | Prepared Go-to-Market Plan and Marketing Message | go-to-market-plan.md, marketing-message.md |
 | Ei Zin Phyo | Created Acquisition Metrics, CSV metrics data, and updated documentation | acquisition-metrics.md, acquisition-metrics-template.csv, README.md |
