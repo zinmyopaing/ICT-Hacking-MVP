@@ -606,6 +606,81 @@ MVP Implementation Sprint 2 and Startup Metrics
 - Develop Dashboard page.
 - Improve responsive design.
 - Complete Admin features and final testing.
+# Weekly Logbook - Lab 12
+
+## Group Name
+
+Smart Study Group Finder Team
+
+## Project Title
+
+Smart Study Group Finder
+
+## Lab Date
+
+27 July 2026                 
+
+---
+
+## Work Completed Today
+
+| Member Name | Contribution | File / Commit Evidence |
+|-------------|--------------|------------------------|
+| Zin Myo Paing | Developed Landing Page design and CTA section | landing-page.html, landing-page-content.md, landing-page-link.md |
+| Sai Naw Khay Li | Prepared Go-to-Market Plan and Marketing Message | go-to-market-plan.md, marketing-message.md |
+| Ei Zin Phyo | Created Acquisition Metrics, CSV metrics data, and updated documentation | acquisition-metrics.md, acquisition-metrics-template.csv, README.md |
+| Thiri Htet Htet Soe | Captured landing page screenshots, updated weekly logbook, and reviewed project documents | screenshots/, weekly-logbook.md,|
+
+---
+
+## Landing Page Progress
+
+- Created a landing page introducing the Smart Study Group Finder project.
+- Added project title, headline, features, and benefits.
+- Added a **"Try Demo"** Call-to-Action button linking to the prototype.
+- Captured landing page and CTA screenshots.
+
+---
+
+## Go-to-Market Progress
+
+- Identified target users as university students.
+- Prepared marketing messages for Facebook, Telegram, email, and campus posters.
+- Created a digital go-to-market plan.
+- Defined CTA and prototype promotion strategy.
+
+---
+
+## Metrics Plan
+
+The team will measure:
+
+- Landing page views
+- CTA button clicks
+- Prototype visits
+- User registrations
+- Study group creations
+
+Data will be collected using the landing page, prototype logs, Local Storage, and manual tracking.
+
+---
+
+## Problems Encountered
+
+- GitHub Pages deployment has not been completed yet.
+- Prototype URL is still pending.
+- View Group Details feature is still under development.
+
+---
+
+## Next Action Before Lab 13
+
+- Deploy the project using GitHub Pages.
+- Complete the View Group Details feature.
+- Improve responsive design.
+- Perform user testing and collect feedback.
+- Finalize prototype documentation and screenshots.
+
 
 
 
