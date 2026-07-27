@@ -541,4 +541,43 @@ During Lab 11, the prototype was improved by adding JavaScript functionality and
 - Develop Dashboard page.
 - Add Admin features.
 - Improve responsive design.
-- Perform final testing and bug fixing.
+- Perform final testing and bug fixing
+
+## Lab 12 - Landing Page and Digital Go-to-Market
+
+### Landing Page
+- Landing page folder/link: /landing-page/
+- Main CTA: Try Demo
+- Prototype/demo link: find-group.html
+
+### Go-to-Market Plan
+- Target early users: University students looking for study groups.
+- Selected channels: Class chat groups, Campus posters with QR codes, Instagram.
+- Main marketing message: Find and join the right study group quickly and easily.
+
+### Acquisition Metrics
+- Metric 1: Landing page views
+- Metric 2: CTA button clicks
+- Metric 3: Demo attempts
+
+### Screenshots
+- Landing page screenshot: /screenshots/landing-page.png
+- CTA screenshot: /screenshots/call-to-action.png
+
+### Requirement Alignment
+The landing page introduces the Smart Study Group Finder system and encourages users to try the prototype through the "Try Demo" button. It supports the system requirements by allowing users to search study groups, view group information, join groups, and access the prototype workflow.
+
+### Member Contributions
+
+| Member | Contribution | Commit/Issue Evidence |
+|--------|--------------|-----------------------|
+| Zin Myo Paing | Designed the landing page and CTA section | Landing page commit |
+| Sai Naw Khay Li | Prepared Go-to-Market Plan and marketing content | Documentation commit |
+| Ei Zin Phyo | Created acquisition metrics and updated README | Metrics commit |
+| Thiri Htet Htet Soe | Captured screenshots, updated weekly logbook, and reviewed documentation | Documentation commit |
+
+
+
+   
+
+
