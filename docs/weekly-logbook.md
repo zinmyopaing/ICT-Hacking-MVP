@@ -552,7 +552,7 @@ MVP Implementation Sprint 2 and Startup Metrics
 
 | Member Name | Contribution | File / Feature Updated | GitHub Evidence |
 
-|------------------|----------------|----------------------------|-------------------|
+|-------------|--------------|------------------------|-----------------|
 
 | Zin Myo Paing| Homepage and UI improvements | homepage.html, homepage.css | Commit |
 
@@ -562,7 +562,6 @@ MVP Implementation Sprint 2 and Startup Metrics
 
 | Ei Zin Phyo | Testing, Screenshots and Bug Fixes | prototype-testing-notes.md, screenshots | Commit |
 
----
 
 ## Requirements Addressed
 
