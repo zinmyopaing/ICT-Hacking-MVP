@@ -6,7 +6,7 @@ Therefore, no online prototype platform (such as Figma or AppSheet) is used.
 ## Prototype Platform
 
 - Platform: HTML, CSS, JavaScript (Local Web Prototype)
-- Prototype link: N/A
+- Prototype link: https://ict-hacking-mvp.vercel.app/
 - Access note: Run the project using Live Server in Visual Studio Code.
 - Last updated: 20 July 2026
 
@@ -29,7 +29,7 @@ Therefore, no online prototype platform (such as Figma or AppSheet) is used.
 
 GitHub Repository: (To be uploaded after project completion)
 
-Prototype URL: Not available yet.
+Prototype URL: https://ict-hacking-mvp.vercel.app/
 
 ---
 
