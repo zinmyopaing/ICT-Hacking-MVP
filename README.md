@@ -576,6 +576,62 @@ The landing page introduces the Smart Study Group Finder system and encourages u
 | Ei Zin Phyo | Created acquisition metrics and updated README | Metrics commit |
 | Thiri Htet Htet Soe | Captured screenshots, updated weekly logbook, and reviewed documentation | Documentation commit |
 
+## Lab 13: Sales Scenario, Demo Script, and User Testing
+
+### Lab 13 Objective
+
+We prepared the sales scenario, demo script, user testing plan, user testing results, and final improvement list to evaluate the Smart Study Group Finder prototype before Lab 14.
+
+### Files Completed
+
+- [x] /docs/sales-scenario.md
+- [x] /docs/demo-script.md
+- [x] /docs/user-testing-plan.md
+- [x] /docs/user-testing-results.md
+- [x] /docs/final-improvement-list.md
+- [x] /docs/weekly-logbook.md
+- [x] /screenshots/demo-flow.png
+- [x] /screenshots/user-testing-evidence.png
+
+### Prototype / Demo Link
+
+**GitHub Repository:**
+
+https://github.com/zinmyopaing/ICT-Hacking-MVP.git
+
+**Prototype (Local):**
+
+https://ict-hacking-mvp.vercel.app/
+
+### Final Preparation Status
+
+The prototype is almost ready for Lab 14.
+
+**Completed Features**
+
+- User Registration & Login
+- Authentication (Navbar Update)
+- Find Study Groups
+- View Group Details
+- Join Group
+- Leave Group
+- Create Group
+- Edit Group
+- Delete Group
+- My Profile
+- Notifications
+- User Testing Documents
+- Demo Script
+- Sales Scenario
+
+**Remaining Improvements Before Lab 14**
+
+- Complete Search & Filter
+- Implement Admin Dashboard
+- Improve Responsive Design
+- Add User Testing Screenshots
+- Final Requirement Checking
+- Final UI Polish
 
 
    
