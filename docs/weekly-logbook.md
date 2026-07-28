@@ -674,7 +674,7 @@ Data will be collected using the landing page, prototype logs, Local Storage, an
 - Perform user testing and collect feedback.
 - Finalize prototype documentation and screenshots.
 
-- Weekly Logbook â Lab 13
+# Weekly Logbook - Lab 13
 
 ## Group Name
 
