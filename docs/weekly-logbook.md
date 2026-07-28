@@ -674,6 +674,78 @@ Data will be collected using the landing page, prototype logs, Local Storage, an
 - Perform user testing and collect feedback.
 - Finalize prototype documentation and screenshots.
 
+- Weekly Logbook â Lab 13
+
+## Group Name
+
+**ICT-Hacking-MVP Team**
+
+## Project Title
+
+**Smart Study Group Finder**
+
+## Date
+														
+**28 July 2026**
+
+## Members and Contributions
+
+| Member | Contribution This Lab | GitHub Evidence |
+|---|---|---|
+| Ei Zin Phyo | Prepared sales scenario and demo flow | Commit |
+| Thiri Htet Htet Soe | Prepared demo script and requirement references | Commit |
+| Sai Naw Khay Li | Prepared user testing plan and results | Commit |
+| Zin Myo Paing | Prepared improvement list, screenshots, and documentation review | Commit |
+
+## Work Completed
+
+- **Sales scenario:** Completed
+- **Demo script:** Completed
+- **User testing plan:** Completed
+- **User testing results:** Completed
+- **Final improvement list:** Completed
+- **Screenshots:** In progress
+
+## Key Decisions
+
+- Use the actual Smart Study Group Finder workflow in the demo.
+- Connect every demo step to requirement IDs.
+- Record incomplete features honestly.
+- Prioritize Search and Filter and Admin Dashboard before Lab 14.
+- Use one shared GitHub repository for all Lab 13 files.
+
+## Problems Encountered
+
+- Search and Filter are not fully functional.
+- Admin Dashboard is not implemented.
+- Notifications are not fully dynamic.
+- Some responsive layouts still need testing.
+- Some buttons and cards required CSS adjustments.
+
+## Next Actions Before Lab 14
+
+- Complete Search and Filter.
+- Implement Admin role and Admin Dashboard.
+- Add dynamic notifications.
+- Improve form validation.
+- Complete responsive testing.
+- Fix broken links and file-name inconsistencies.
+- Capture demo and user-testing screenshots.
+- Update README.md.
+
+## Requirement Traceability Notes
+
+The following requirements need final checking before Lab 14:
+
+- **FR-05:** Search Study Groups
+- **FR-08:** Filter Study Groups
+- **FR-09:** Admin Management
+- **FR-10:** Input Validation
+- **FR-11:** Confirmation Messages
+- **FR-14:** Responsive Design
+- **FR-16:** Requirement Traceability
+
+
 
 
 
