@@ -633,6 +633,131 @@ The prototype is almost ready for Lab 14.
 - Final Requirement Checking
 - Final UI Polish
 
+# Smart Study Group Finder
+
+## Group Members
+
+| Name | Role | Main Contribution |
+|------|------|-------------------|
+| Zin Myo Paing | Project Leader / Frontend Developer | Homepage, Authentication, Dashboard |
+| Sai Naw Khay Li | Frontend Developer / UI Designer | Profile Management, Notifications, Responsive UI |
+| Thiri Htet Htet Soe | Frontend Developer | Study Group Management, Search & Filter, LocalStorage |
+| Ei Zin Phyo | Documentation & Testing | Documentation, Testing, Presentation |
+
+---
+
+## Project Overview
+
+Smart Study Group Finder is a web-based application that helps university students easily create, search, and join study groups based on courses and subjects. The system improves collaboration and provides a centralized platform for academic group activities.
+
+---
+
+## Target Users
+
+- University Students
+- Study Group Leaders
+- System Administrator
+
+---
+
+## Problem Solved
+
+Many students struggle to find classmates studying the same subject. Communication is often scattered across social media, making study group organization difficult. Smart Study Group Finder solves this problem by providing a centralized platform where students can create, discover, and join study groups easily.
+
+---
+
+## Final Prototype
+
+- Prototype Folder: /prototype/
+- Landing Page: index.html
+- Login Page: login.html
+- Admin Dashboard: admin.html
+
+---
+
+## Final Documentation
+
+- System Requirements: /docs/system-requirements.md
+- User Stories: /docs/user-stories.md
+- MVP Feature List: /docs/mvp-feature-list.md
+- Feature Implementation Status: /docs/feature-implementation-status.md
+- Final Prototype Report: /docs/final-prototype-report.md
+- Final Demo Script: /docs/final-demo-script.md
+- Final Reflection: /docs/final-reflection.md
+- Final Submission Checklist: /docs/final-submission-checklist.md
+- Weekly Logbook: /docs/weekly-logbook.md
+
+---
+
+## Screenshots
+
+- /screenshots/final-homepage.png
+- /screenshots/final-input-form.png
+- /screenshots/final-record-list.png
+- /screenshots/final-detail-view.png
+- /screenshots/final-dashboard.png
+- /screenshots/final-admin-view.png
+
+---
+
+## Pitch
+
+- Final Pitch Slides: /pitch/final-pitch-slides.pptx
+
+---
+
+## Data and Diagrams
+
+### Data
+
+- /data/final-sample-data.csv
+
+### Diagrams
+
+- Use Case Diagram
+- Activity Diagram
+- ER Diagram (if available)
+
+---
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- LocalStorage
+
+---
+
+## Main Features
+
+- Student Registration & Login
+- Role-based Authentication (Student/Admin)
+- Create Study Groups
+- Search & Filter Study Groups
+- View Group Details
+- Join / Leave Study Groups
+- Profile Management
+- Manage Courses
+- Notifications
+- Dashboard Statistics
+- Admin Dashboard
+- Manage Users
+- Manage Study Groups
+- Responsive Design
+
+---
+
+## Final Submission Notes
+
+- All functional requirements have been implemented.
+- All project documentation has been updated.
+- The prototype has been tested successfully.
+- Responsive design has been improved for mobile devices.
+- The project is ready for demonstration and final submission.
+
+
+
 
    
 
