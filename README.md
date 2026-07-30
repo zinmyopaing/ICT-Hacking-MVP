@@ -668,7 +668,7 @@ Many students struggle to find classmates studying the same subject. Communicati
 
 ## Final Prototype
 
-- Prototype Folder: /prototype/
+- Prototype link:
 - Landing Page: index.html
 - Login Page: login.html
 - Admin Dashboard: admin.html
