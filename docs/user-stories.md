@@ -1,40 +1,28 @@
-# Lab 04 - User Stories and Acceptance Criteria
+User Stories
 
-## User Story Format
+|ID   |User Story                                                             |Requirement|
+|-----|-----------------------------------------------------------------------|-----------|
+|US-01|As a student, I want to register an account so I can access the system.|FR-01      |
+|US-02|As a student, I want to login/logout securely.                         |FR-02      |
+|US-03|As a student, I want to create a study group.                          |FR-04      |
+|US-04|As a student, I want to search and filter study groups.                |FR-05      |
+|US-05|As a student, I want to view study group details before joining.       |FR-06      |
+|US-06|As a student, I want to join or leave a study group.                   |FR-07      |
+|US-07|As a student, I want to edit or delete my own study group.             |FR-08      |
+|US-08|As a student, I want to manage my profile information.                 |FR-09      |
+|US-09|As a student, I want to manage my courses.                             |FR-10      |
+|US-10|As a student, I want to receive notifications.                         |FR-11      |
+|US-11|As a student, I want to view dashboard statistics.                     |FR-12      |
+|US-12|As an administrator, I want to manage users.                           |FR-16      |
+|US-13|As an administrator, I want to manage study groups.                    |FR-17      |
+|US-14|As an administrator, I want to login and access the admin dashboard.   |FR-15      |
 
-As a [user role], I want to [goal/action], so that [benefit/value].
+Acceptance Criteria
 
----
-
-## User Stories
-
-| Story ID | Role | User Story | Related Requirement | Priority | Acceptance Criteria | Demo Evidence |
-|----------|------|------------|---------------------|----------|---------------------|---------------|
-| US-01 | Student | As a student, I want to search study groups by subject so that I can find classmates studying the same course. | FR-05 | Must | **Given** I am on the search page, **when** I enter a subject name, **then** matching study groups are displayed. | Search page screenshot |
-| US-02 | Student | As a student, I want to create a study group so that other students can join me. | FR-03 | Must | **Given** I complete all required fields, **when** I click Create, **then** the study group is saved successfully. | Create group screenshot |
-| US-03 | Student | As a student, I want to join an existing study group so that I can study with other students. | FR-04 | Must | **Given** I choose an available group, **when** I click Join, **then** I become a member of that group. | Join group screenshot |
-| US-04 | Student | As a student, I want to view study group details so that I can decide whether the group matches my needs. | FR-06 | Must | **Given** I select a study group, **when** the details page opens, **then** I can view the subject, description, meeting time, and members. | Group details screenshot |
-| US-05 | Student | As a student, I want to filter study groups by subject so that I can find suitable groups more quickly. | FR-08 | Should | **Given** multiple study groups exist, **when** I select a subject filter, **then** only matching groups are displayed. | Filter feature screenshot |
-| US-06 | Admin | As an administrator, I want to manage study groups so that inappropriate or inactive groups can be removed. | FR-09 | Should | **Given** I am logged in as an admin, **when** I edit or remove a study group, **then** the changes are saved successfully. | Admin page screenshot |
-
----
-
-## Acceptance Criteria Checklist
-
-A good acceptance criterion should be:
-
-- Testable.
-- Observable in the final prototype.
-- Connected to a requirement.
-- Connected to user evidence.
-- Not too vague.
-
----
-
-## Rejected / Future User Stories
-
-| Story ID | Reason for Postponing | Future Condition |
-|----------|-----------------------|------------------|
-| US-07 | Real-time chat feature requires more development time. | Add in Version 2 after MVP validation. |
-| US-08 | AI study group recommendation is beyond the MVP scope. | Add after collecting more user data. |
-| US-09 | Video meeting integration requires third-party services. | Consider in future releases if needed. |
+• Registration validates required fields.
+• Login accepts valid credentials only.
+• Groups are stored in LocalStorage.
+• Students can search, join and leave groups.
+• Profile changes are saved.
+• Admin can delete users and groups.
+• Dashboard statistics update automatically.
