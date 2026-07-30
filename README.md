@@ -668,7 +668,7 @@ Many students struggle to find classmates studying the same subject. Communicati
 
 ## Final Prototype
 
-- Prototype link:
+- Prototype link: https://ict-hacking-mvp.vercel.app/
 - Landing Page: index.html
 - Login Page: login.html
 - Admin Dashboard: admin.html
