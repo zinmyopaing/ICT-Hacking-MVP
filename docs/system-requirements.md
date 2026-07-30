@@ -78,3 +78,49 @@ Smart Study Group Finder
 | View group information | FR-06 View Group Details |
 | Easy to use | NFR-02 Usability |
 
+
+
+System Requirements
+
+Project Title
+q ID|Requirement                 |Status|
+|------|----------------------------|------|
+|FR-01 |Student Registration        |✅     |
+|FR-02 |Student Login / Logout      |✅     |
+|FR-03 |Admin Login                 |✅     |
+|FR-04 |Create Study Group          |✅     |
+|FR-05 |Search & Filter Study Groups|✅     |
+|FR-06 |View Group Details          |✅     |
+|FR-07 |Join / Leave Study Group    |✅     |
+|FR-08 |Edit / Delete Own Group     |✅     |
+|FR-09 |My Profile & Edit Profile   |✅     |
+|FR-10 |Manage Courses              |✅     |
+|FR-11 |Notifications               |✅     |
+|FR-12 |Dashboard Statistics        |✅     |
+|FR-13 |LocalStorage Data Storage   |✅     |
+|FR-14 |Input Validation            |✅     |
+|FR-15 |Admin Dashboard             |✅     |
+|FR-16 |Manage Users                |✅     |
+|FR-17 |Manage Study Groups         |✅     |
+|FR-18 |Responsive User Interface   |✅     |
+
+Non-Functional Requirements
+
+• Responsive on desktop, tablet and mobile.
+• Fast loading with HTML, CSS and JavaScript.
+• Data stored using LocalStorage.
+• Easy to use interface.
+• Consistent UI and navigation.
+
+System Modules
+
+1. Authentication
+2. Homepage
+3. Study Group Management
+4. Search & Filter
+5. Profile Management
+6. Course Management
+7. Notifications
+8. Dashboard
+9. Admin Panel
+10. LocalStorage
