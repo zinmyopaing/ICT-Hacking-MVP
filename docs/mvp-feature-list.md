@@ -1,56 +1,70 @@
-# Lab 04 - MVP Feature List
+Lab 04 - MVP Feature List (Updated for Final MVP)
 
-## MVP Decision Rule
+MVP Decision Rule
 
-The MVP includes only the essential features needed to validate that university students can easily find and join study groups based on subjects.
+The Smart Study Group Finder MVP focuses on helping university students create, discover, join and manage study groups through a simple web application using HTML, CSS, JavaScript and LocalStorage.
 
----
+────────
 
-## MoSCoW Prioritization
+MoSCoW Prioritization
 
-| Feature ID | Feature Name | Problem Solved | Related User Story | Priority | Technical Complexity (1-5) | User Value (1-5) | Evidence Strength (1-5) | Include in Final Prototype? |
-|------------|--------------|----------------|--------------------|----------|----------------------------|------------------|--------------------------|-----------------------------|
-| F01 | Subject Search | Students cannot easily find study groups. | US-01 | Must | 2 | 5 | 5 | Yes |
-| F02 | Create Study Group | Students cannot create their own study groups. | US-02 | Must | 3 | 5 | 5 | Yes |
-| F03 | Join Study Group | Students want to join existing study groups. | US-03 | Must | 2 | 5 | 5 | Yes |
-| F04 | View Group Details | Students need information before joining. | US-04 | Must | 2 | 4 | 4 | Yes |
-| F05 | Filter by Subject | Students want faster searching. | US-05 | Should | 2 | 4 | 4 | Yes |
-| F06 | Admin Manage Groups | Remove inactive or inappropriate groups. | US-06 | Should | 4 | 3 | 3 | Yes |
-| F07 | Real-time Chat | Students can communicate instantly. | Future | Could | 5 | 3 | 2 | No |
-| F08 | AI Study Group Recommendation | Recommend suitable groups automatically. | Future | Won't | 5 | 3 | 1 | No |
+|ID |Feature                                  |Priority|Final Status   |
+|---|-----------------------------------------|--------|---------------|
+|F01|Student Registration & Login             |Must    |Implemented    |
+|F02|Role-based Authentication (Student/Admin)|Must    |Implemented    |
+|F03|Homepage / Dashboard                     |Must    |Implemented    |
+|F04|Create Study Group                       |Must    |Implemented    |
+|F05|Search & Filter Groups                   |Must    |Implemented    |
+|F06|View Group Details                       |Must    |Implemented    |
+|F07|Join / Leave Group                       |Must    |Implemented    |
+|F08|Edit / Delete Own Group                  |Should  |Implemented    |
+|F09|My Profile & Edit Profile                |Should  |Implemented    |
+|F10|Manage Courses                           |Should  |Implemented    |
+|F11|Notifications                            |Should  |Implemented    |
+|F12|Dashboard Statistics                     |Should  |Implemented    |
+|F13|Admin Dashboard                          |Must    |Implemented    |
+|F14|Manage Users                             |Must    |Implemented    |
+|F15|Manage Study Groups                      |Must    |Implemented    |
+|F16|LocalStorage Data Management             |Must    |Implemented    |
+|F17|Form Validation & Feedback               |Must    |Implemented    |
+|F18|Responsive User Interface                |Should  |Implemented    |
+|F19|Real-time Chat                           |Could   |Not Implemented|
+|F20|AI Group Recommendation                  |Won’t   |Future Work    |
 
----
+────────
 
-## Must-Have Features
+Must-Have Features
 
-- Subject search
-- Create study group
-- Join study group
-- View study group details
+• Student registration and login
+• Create, search and join study groups
+• Group details page
+• Admin dashboard
+• User and group management
+• LocalStorage data persistence
+• Validation and feedback messages
 
----
+────────
 
-## Should-Have Features
+Should-Have Features
 
-- Filter study groups by subject
-- Admin management page
+• Profile management
+• Course management
+• Notifications
+• Dashboard statistics
+• Responsive design
 
----
+────────
 
-## Could-Have / Future Features
+Could-Have Features
 
-- Real-time chat between members
-- Push notifications
-- Group invitation feature
+• Real-time chat
+• Group invitations
 
----
+────────
 
-## Not in MVP
+Future Improvements
 
-The following features are intentionally excluded from the MVP because they require more development time or have limited evidence from user interviews.
-
-- AI-based study group recommendation
-- Video meeting integration
-- Real-time messaging
-- Voice or video calling
-- Automatic timetable synchronization
+• AI-based study group recommendations
+• Video meeting integration
+• Cloud database and authentication
+• Mobile application
