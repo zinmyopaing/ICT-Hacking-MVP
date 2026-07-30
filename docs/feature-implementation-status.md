@@ -101,3 +101,21 @@ This document tracks the implementation status of the Smart Study Group Finder p
 | FR-14 | Mobile/responsive consideration | All Screens | Pending | In Progress | Member 2 | responsive.png | Responsive layout being improved. |
 | FR-15 | Privacy/responsible data handling | Local Storage | Pending | Partially Completed | Member 1 | register.js | Basic Local Storage implemented; security improvements planned. |
 | FR-16 | Final prototype traceability | Documentation | Pending | In Progress | All Members | GitHub Commit | Documentation updated continuously during Lab 11. |
+
+
+# Feature Implementation Status
+
+| Requirement ID | Requirement Summary | Prototype Screen/Module | Status | Evidence/Screenshot | Notes |
+|---|---|---|---|---|---|
+| FR-01 | Homepage or landing screen | Homepage (homepage.html) | Completed | screenshots/final-homepage.png | Landing page with navigation and project introduction |
+| FR-02 | Primary user pathway | Login → Homepage → Create/Join Group | Completed | screenshots/final-homepage.png | Users can complete the main workflow successfully |
+| FR-03 | User input or data submission | Create Group, Register, Edit Profile | Completed | screenshots/final-input-form.png | Forms include validation and feedback |
+| FR-04 | Data storage or simulated storage | LocalStorage | Completed | Browser LocalStorage | User and group data are stored locally |
+| FR-05 | View records/list | Find Groups, My Groups | Completed | screenshots/final-record-list.png | Displays all study groups dynamically |
+| FR-06 | Search/filter/category | Find Groups Search & Filter | Completed | screenshots/final-record-list.png | Search by course, subject, or keyword |
+| FR-07 | Detail view | Group Details | Completed | screenshots/final-detail-view.png | Shows full information of a selected group |
+| FR-08 | Status/progress tracking | Join/Leave Group Status | Completed | screenshots/final-detail-view.png | Membership status updates after joining or leaving |
+| FR-09 | Admin/manager function | Admin Dashboard | Completed | screenshots/final-admin-view.png | Admin manages users and study groups |
+| FR-10 | Validation and feedback | Registration, Login, Create Group | Completed | Form Validation Messages | Displays success and error messages |
+| FR-11 | Dashboard/summary/metrics | Student Dashboard | Completed | screenshots/final-dashboard.png | Shows total groups, joined groups, and statistics |
+| FR-12 | Final prototype traceability | Documentation | Completed | system-requirements.md | Features are mapped to requirements and user stories |
