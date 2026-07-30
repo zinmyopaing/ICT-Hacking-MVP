@@ -1,0 +1,6 @@
+group_id,group_name,course,subject,location,meeting_date,meeting_time,max_members,current_members,status
+SG-001,Programming Study Group,Programming,Java,Library,2026-08-02,14:00,8,5,Open
+SG-002,Database Revision,Database Systems,SQL,Computer Lab,2026-08-03,10:00,6,4,Open
+SG-003,Web Development Team,Web Development,HTML/CSS/JavaScript,Online,2026-08-04,19:00,10,8,Open
+SG-004,Networking Practice,Computer Networks,Networking,Engineering Building,2026-08-05,15:30,6,6,Full
+SG-005,AI Fundamentals,Artificial Intelligence,Machine Learning,Library,2026-08-06,13:00,8,3,Open
