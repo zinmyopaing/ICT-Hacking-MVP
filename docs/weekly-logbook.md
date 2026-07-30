@@ -745,6 +745,101 @@ The following requirements need final checking before Lab 14:
 - **FR-14:** Responsive Design
 - **FR-16:** Requirement Traceability
 
+# Weekly Logbook - Lab 14
+
+## Group Name
+
+Smart Study Group Finder
+
+---
+
+## Date
+
+30 July 2026
+
+---
+
+## Members Present
+
+- Zin Myo paing
+- Sai Naw Khay Li
+- Thiri Htet Htet Soe
+- Ei Zin Phyo
+
+---
+
+## What We Completed Today
+
+- Finalized the Smart Study Group Finder prototype.
+- Tested all major system functions.
+- Verified that all functional requirements were completed.
+- Fixed minor bugs and improved responsive design.
+- Updated project documentation for the final submission.
+
+---
+
+## Final Prototype Updates
+
+- Completed student registration and login.
+- Added role-based authentication for students and admin.
+- Completed study group creation, editing, and deletion.
+- Implemented search and filter functions.
+- Added group details page.
+- Implemented join and leave group features.
+- Completed profile management.
+- Added course management.
+- Implemented notification system.
+- Completed dashboard statistics.
+- Finished admin dashboard for managing users and study groups.
+- Improved responsive design for mobile devices.
+
+---
+
+## Final Documentation Updates
+
+Updated the following project documents:
+
+- system-requirements.md
+- user-stories.md
+- mvp-feature-list.md
+- feature-implementation-status.md
+- final-prototype-report.md
+- final-demo-script.md
+- final-reflection.md
+- final-submission-checklist.md
+- README.md
+- final-pitch-outline.md
+
+---
+
+## GitHub Contributions Today
+
+| Member | File/Issue/Commit Updated | Evidence Link |
+|--------|---------------------------|---------------|
+| Zin Myo Paing | Homepage, Login, Dashboard | GitHub Commit |
+| Sai Naw Khay Li | Profile, Notifications, UI Improvements | GitHub Commit |
+| Thiri Htet Htet Soe | Study Groups, Search, LocalStorage | GitHub Commit |
+| Ei Zin Phyo | Documentation, Testing, Presentation Files | GitHub Commit |
+
+---
+
+## Problems Found Before Submission
+
+- Minor responsive layout issues were identified and fixed.
+- Validation messages were improved.
+- Documentation was updated to match the final prototype.
+- All project links and navigation were verified.
+
+---
+
+## Action Before Final Presentation
+
+- Review all project features.
+- Verify screenshots and documentation.
+- Check GitHub repository structure.
+- Practice the final demo presentation.
+- Ensure all team members understand their presentation roles.
+
 
 
 
