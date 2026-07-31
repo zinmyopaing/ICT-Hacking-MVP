@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Admin Dashboard | Smart Study</title>
+
+    <link rel="stylesheet"
+          href="admin.css">
+
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+</head>
+
+<body>
+
+<div class="sidebar">
+
+    <div class="logo">
+
+        <i class="fa-solid fa-user-shield"></i>
+
+        <span>Admin Panel</span>
+
+    </div>
+
+    <ul>
+
+        <li class="active">
+            <a href="#">
+                <i class="fa-solid fa-chart-line"></i>
+                Dashboard
+            </a>
+        </li>
+
+        <li>
+            <a href="#">
+                <i class="fa-solid fa-users"></i>
+                Users
+            </a>
+        </li>
+
+        <li>
+            <a href="#">
+                <i class="fa-solid fa-user-group"></i>
+                Study Groups
+            </a>
+        </li>
+
+        <li>
+            <a href="#">
+                <i class="fa-solid fa-book"></i>
+                Courses
+            </a>
+        </li>
+
+        <li>
+            <a href="#">
+                <i class="fa-solid fa-bell"></i>
+                Notifications
+            </a>
+        </li>
+
+        <li>
+            <a href="#">
+                <i class="fa-solid fa-gear"></i>
+                Settings
+            </a>
+        </li>
+
+        <li>
+
+            <a href="#" id="adminLogout">
+
+                <i class="fa-solid fa-right-from-bracket"></i>
+
+                Logout
+
+            </a>
+
+        </li>
+
+    </ul>
+
+</div>
+
+<div class="main-content">
+
+    <header>
+
+        <button id="menuToggle" class="menu-toggle">
+    <i class="fa-solid fa-bars"></i>
+</button>
+
+<h1>Dashboard</h1>
+
+        <h1>Dashboard</h1>
+
+        <div class="admin-profile" id="adminProfile">
+
+            <i class="fa-solid fa-user"></i>
+
+            <span id="adminName">
+                Administrator
+            </span>
+
+        </div>
+
+    </header>
+
+    <section class="cards">
+
+        <div class="card">
+
+            <i class="fa-solid fa-users"></i>
+
+            <h2 id="totalUsers">0</h2>
+
+            <p>Total Users</p>
+
+        </div>
+
+        <div class="card">
+
+            <i class="fa-solid fa-user-group"></i>
+
+            <h2 id="totalGroups">0</h2>
+
+            <p>Total Groups</p>
+
+        </div>
+
+        <div class="card">
+
+            <i class="fa-solid fa-book"></i>
+
+            <h2 id="totalCourses">0</h2>
+
+            <p>Total Courses</p>
+
+        </div>
+
+        <div class="card">
+
+            <i class="fa-solid fa-bell"></i>
+
+            <h2 id="totalNotifications">0</h2>
+
+            <p>Notifications</p>
+
+        </div>
+
+    </section>
+
+    <section class="table-section">
+
+        <h2>Recent Users</h2>
+
+        <table>
+
+            <thead>
+
+                <tr>
+
+                    <th>Name</th>
+
+                    <th>Email</th>
+
+                    <th>Role</th>
+
+                </tr>
+
+            </thead>
+
+            <tbody id="usersTable">
+
+            </tbody>
+
+        </table>
+
+    </section>
+
+    <section class="table-section">
+
+    <div class="table-header">
+
+        <h2>Manage Users</h2>
+
+        <input type="text"
+               id="searchUser"
+               placeholder="Search User...">
+
+    </div>
+
+    <table>
+
+        <thead>
+
+            <tr>
+
+                <th>Name</th>
+                <th>Student ID</th>
+                <th>Email</th>
+                <th>Role</th>
+                <th>Action</th>
+
+            </tr>
+
+        </thead>
+
+        <tbody id="manageUsersTable">
+
+        </tbody>
+
+    </table>
+
+</section>
+
+<section class="table-section">
+
+    <div class="table-header">
+
+        <h2>Manage Study Groups</h2>
+
+        <input
+            type="text"
+            id="searchGroup"
+            placeholder="Search Group">
+
+    </div>
+
+    <table>
+
+        <thead>
+
+            <tr>
+
+                <th>Group</th>
+
+                <th>Course</th>
+
+                <th>Owner</th>
+
+                <th>Members</th>
+
+                <th>Action</th>
+
+            </tr>
+
+        </thead>
+
+        <tbody id="groupsTable">
+
+        </tbody>
+
+    </table>
+
+</section>
+
+
+</div>
+
+<div class="modal" id="adminModal">
+
+    <div class="modal-content">
+
+        <span class="close" id="closeAdminModal">&times;</span>
+
+        <h2>Admin Profile</h2>
+
+        <hr>
+
+        <p><strong>Name:</strong> <span id="profileName"></span></p>
+
+        <p><strong>Email:</strong> <span id="profileEmail"></span></p>
+
+        <p><strong>Role:</strong> <span id="profileRole"></span></p>
+
+        <p><strong>Student ID:</strong> <span id="profileStudentId"></span></p>
+
+    </div>
+
+</div>
+
+
+
+<script src="../js/admin.js"></script>
+
+</body>
+
+</html>
