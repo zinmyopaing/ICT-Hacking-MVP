@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+
+    <title>Smart Study Group Finder</title>
+
+    
+
+
+    <!-- CSS -->
+
+    <link rel="stylesheet"
+        href="join-group.css">
+
+    <!-- Font Awesome -->
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+</head>
+
+<body>
+
+<!-- ===========================
+        HEADER
+=========================== -->
+
+<header>
+
+<nav class="navbar">
+
+<div class="logo">
+
+<i class="fa-solid fa-user-group"></i>
+
+<span>Smart Study</span>
+
+</div>
+
+<ul class="nav-links">
+
+<li>
+
+<a href="homepage.html">
+
+Home
+
+</a>
+
+</li>
+
+<li>
+
+<a href="find-groups.html">
+
+Find Groups
+
+</a>
+
+</li>
+
+<li>
+
+<a href="create-group.html">
+
+Create Group
+
+</a>
+
+</li>
+
+<li>
+
+<a href="notification.html">
+
+Notifications
+
+</a>
+
+</li>
+
+<li>
+
+<a href="login.html" id="authButton"
+class="login-btn">
+
+Login
+
+</a>
+
+</li>
+
+<li id="logoutItem" style="display: none;">
+    <button type="button" id="logoutButton" class="logout-btn">
+        Logout
+    </button>
+</li>
+
+</ul>
+
+<!-- Mobile Menu -->
+
+<div class="menu-btn">
+
+<i class="fa-solid fa-bars"></i>
+
+</div>
+
+</nav>
+
+</header>
+
+
+<!--=========================================
+            JOIN GROUP PAGE
+==========================================-->
+
+<section class="join-group-page">
+
+    <div class="page-header">
+
+        <span class="page-badge">
+
+            <i class="fa-solid fa-user-plus"></i>
+
+            Join Study Group
+
+        </span>
+
+        <h1>Join Programming Study Group</h1>
+
+        <p>
+
+            Complete the form below to send your request.
+
+        </p>
+
+    </div>
+
+    <div class="join-card">
+
+        <!--======================
+            GROUP INFORMATION
+        =======================-->
+
+        <div class="group-summary">
+
+            <h2>Group Information</h2>
+
+            <div class="summary-grid">
+
+                <div>
+
+                    <i class="fa-solid fa-users"></i>
+
+                    <strong>Group Name</strong>
+
+                    <span>Programming Study Group</span>
+
+                </div>
+
+                <div>
+
+                    <i class="fa-solid fa-book"></i>
+
+                    <strong>Subject</strong>
+
+                    <span>Programming</span>
+
+                </div>
+
+                <div>
+
+                    <i class="fa-solid fa-graduation-cap"></i>
+
+                    <strong>Course Code</strong>
+
+                    <span>ICT105</span>
+
+                </div>
+
+                <div>
+
+                    <i class="fa-solid fa-user"></i>
+
+                    <strong>Leader</strong>
+
+                    <span>John Smith</span>
+
+                </div>
+
+                <div>
+
+                    <i class="fa-regular fa-calendar"></i>
+
+                    <strong>Meeting Date</strong>
+
+                    <span>Monday</span>
+
+                </div>
+
+                <div>
+
+                    <i class="fa-regular fa-clock"></i>
+
+                    <strong>Meeting Time</strong>
+
+                    <span>6:00 PM - 8:00 PM</span>
+
+                </div>
+
+                <div>
+
+                    <i class="fa-solid fa-location-dot"></i>
+
+                    <strong>Location</strong>
+
+                    <span>Computer Lab A</span>
+
+                </div>
+
+                <div>
+
+                    <i class="fa-solid fa-user-group"></i>
+
+                    <strong>Members</strong>
+
+                    <span>25 / 30</span>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!--======================
+            JOIN FORM
+        =======================-->
+
+        <h2>Student Information</h2>
+
+        <form class="join-form">
+
+            <!-- Full Name -->
+
+            <div class="input-group">
+
+                <label>Full Name</label>
+
+                <div class="input-box">
+
+                    <i class="fa-solid fa-user"></i>
+
+                    <input type="text"
+
+                    placeholder="Enter your full name"
+
+                    required>
+
+                </div>
+
+            </div>
+
+            <!-- Student ID -->
+
+            <div class="input-group">
+
+                <label>Student ID</label>
+
+                <div class="input-box">
+
+                    <i class="fa-solid fa-id-card"></i>
+
+                    <input type="text"
+
+                    placeholder="661234567"
+
+                    required>
+
+                </div>
+
+            </div>
+
+            <!-- Email -->
+
+            <div class="input-group">
+
+                <label>University Email</label>
+
+                <div class="input-box">
+
+                    <i class="fa-solid fa-envelope"></i>
+
+                    <input type="email"
+
+                    placeholder="student@university.ac.th"
+
+                    required>
+
+                </div>
+
+            </div>
+
+            <!-- Phone -->
+
+            <div class="input-group">
+
+                <label>Phone Number</label>
+
+                <div class="input-box">
+
+                    <i class="fa-solid fa-phone"></i>
+
+                    <input type="tel"
+
+                    placeholder="+66 xxx xxx xxxx">
+
+                </div>
+
+            </div>
+
+            <!-- Experience -->
+
+            <div class="input-group">
+
+                <label>Programming Experience</label>
+
+                <div class="input-box">
+
+                    <i class="fa-solid fa-chart-simple"></i>
+
+                    <select>
+
+                        <option>Beginner</option>
+
+                        <option>Intermediate</option>
+
+                        <option>Advanced</option>
+
+                    </select>
+
+                </div>
+
+            </div>
+
+            <!-- Preferred Time -->
+
+            <div class="input-group">
+
+                <label>Preferred Study Time</label>
+
+                <div class="input-box">
+
+                    <i class="fa-regular fa-clock"></i>
+
+                    <select>
+
+                        <option>Morning</option>
+
+                        <option>Afternoon</option>
+
+                        <option>Evening</option>
+
+                        <option>Flexible</option>
+
+                    </select>
+
+                </div>
+
+            </div>
+
+            <!-- Attendance -->
+
+            <div class="input-group full-width">
+
+                <label>Attendance Commitment</label>
+
+                <div class="input-box">
+
+                    <i class="fa-solid fa-calendar-check"></i>
+
+                    <select>
+
+                        <option>Every Meeting</option>
+
+                        <option>Most Meetings</option>
+
+                        <option>Flexible</option>
+
+                    </select>
+
+                </div>
+
+            </div>
+
+            <!-- Reason -->
+
+            <div class="input-group full-width">
+
+                <label>Reason for Joining</label>
+
+                <textarea rows="5"
+
+                placeholder="Tell the group leader why you would like to join this study group..."
+
+                required></textarea>
+
+            </div>
+
+            <!-- Agreement -->
+
+            <div class="checkbox-group full-width">
+
+                <input type="checkbox" required>
+
+                <label>
+
+                    I agree to follow the study group rules and attend meetings responsibly.
+
+                </label>
+
+            </div>
+
+            <!-- Buttons -->
+
+            <div class="button-group full-width">
+
+                <button type="submit"
+
+                class="primary-btn">
+
+                    <i class="fa-solid fa-paper-plane"></i>
+
+                    Send Join Request
+
+                </button>
+
+                <a href="group-details.html"
+
+                class="secondary-btn">
+
+                    Cancel
+
+                </a>
+
+            </div>
+
+        </form>
+
+    </div>
+
+</section>
+
+<script src="../js/database.js"></script>
+    <script src="../js/join-group.js"></script>
+
+</body>
+
+</html>
